@@ -131,7 +131,7 @@ def main():
         "delegacja następuje na podstawie jednostronnej decyzji organu władzy wykonawczej (Ministra Sprawiedliwości),",
         "może zostać odwołana w każdym czasie, bez podania przyczyny,",
         "brak jest skutecznego środka kontroli sądowej tej decyzji,",
-        "system ten tworzy obiektywną zależność organizacyjno-funkcjonalną sędziego od organu władzy wykonawczej, który jednocześnie pełni funkcję Prokuratora Generalnego — a więc strony postępowania karnego."
+        "system ten tworzy obiektywną zależność organizacyjno-funkcjonalną sędziego od organu władzy wykonawczej, który jednocześnie pełni funkcję Prokuratora Generalnego — a więc strony w wielu sprawach karnych."
     ]
     for s in specifics:
         doc.add_paragraph(s, style='List Bullet')
@@ -201,7 +201,7 @@ def main():
 
     add_quote(doc, (
         "\"Ocena medyczna musi opierać się na rzeczywistym stanie zdrowia psychicznego "
-        "danej osoby, a nie wyłącznie na wydarzeniach z przeszłości.\""
+        "danej osoby, a nie wyłącznie na gebeurtenościach z przeszłości.\""
     ))
 
     add_quote(doc, (
@@ -362,10 +362,10 @@ def main():
     add_normal(doc, "Na podstawie powyższego wnoszę o:")
 
     final_requests = [
-        "Wyłączenie SSR del. Piotra Pawlika od rozpoznania sprawy VI Kz 289/26, z uwagi na uzasadnione wątpliwości co do jego niezależności strukturalnej wynikającej z delegacji przez Ministra Sprawiedliwości/Prokuratora Generalnego.",
+        "Wyłączenie SSR del. Piotra Pawlika od rozpoznania sprawy VI Kz 289/26, z uwagi na uzasadnione wątpliwości co do jego niezależności strukturalnej wynikającej z delegacji przez Ministra Sprawiedliwości.",
         "Skierowanie pytania prejudycjalnego do TSUE w zakresie zgodności systemu delegacji sędziowskiej z art. 19 ust. 1 TUE i art. 47 KPP UE.",
         "Przedstawienie zagadnienia prawnego Sądowi Najwyższemu w zakresie kwalifikacji udziału sędziego delegowanego jako nienależytej obsady sądu (art. 439 par. 1 pkt 2 k.p.k.).",
-        "Uwzględnienie standardu aktualności opinii biegłych wynikającego z wyroku ETPCz z 14.10.2021 r. w sprawie M.B. przeciwko Polsce (skarga nr 60157/15) i wyjaśnienie sprzeczności między opinią biegłych w sprawie 4096-6.Ds.94.2025 a nowszą opinią wydaną po badaniu ambulatoryjnym — PRZED podjęciem decyzji o pozbawieniu wolności w drodze obserwacji psychiatrycznej."
+        "Uwzględnienie standardu aktualności opinii biegłych wynikającego z wyroku ETPCz z 14.10.2021 r. w sprawie M.B. przeciwko Polsce (skarga nr 60157/15) i wyjaśnienie sprzeczności między opiniami biegłych a dowodami ambulatoryjnymi PRZED pozbawieniem wolności."
     ]
     for i, req in enumerate(final_requests, 1):
         doc.add_paragraph(f"{i}. {req}", style='List Number')
