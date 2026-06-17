@@ -35,13 +35,13 @@ od rozpoznawania sprawy o sygn. akt VI Kz 289/26.
    - delegacja następuje na podstawie jednostronnej decyzji organu władzy wykonawczej (Ministra Sprawiedliwości),
    - może zostać odwołana w każdym czasie, bez podania przyczyny,
    - brak jest skutecznego środka kontroli sądowej tej decyzji,
-   - system ten tworzy obiektywną zależność organizacyjno-funkcjonalną sędziego od organu władzy wykonawczej, który jednocześnie pełni funkcję Prokuratora Generalnego — a więc strony postępowania karnego.
+   - system ten tworzy obiektywną zależność organizacyjno-funkcjonalną sędziego od organu władzy wykonawczej, który jednocześnie pełni funkcję Prokuratora Generalnego — a więc strony postępowania w wielu sprawach.
 
-4. Zagadnienie to jest przedmiotem aktualnie zawisłego przed Sądem Najwyższym pytania prawnego (sygn. **I KZP 1/26**), skierowanego przez Sąd Okręgowy w Rzeszowie, dotyczącego właśnie kwestii, czy udział sędziego delegowanego przez Ministra Sprawiedliwości stanowi nienależytą obsadę sądu w rozumieniu art. 439 § 1 pkt 2 k.p.k.
+4. Zagadnienie to jest przedmiotem aktualnie zawisłego przed Sądem Najwyższym pytania prawnego (sygn. **I KZP 1/26**), skierowanego przez Sąd Okręgowy w Rzeszowie, dotyczącego właśnie kwestii zgodności systemu delegacji z wymogami art. 439 § 1 pkt 2 k.p.k. (nienależyta obsada sądu).
 
-5. Niniejsza sprawa dotyczy kwestii o szczególnym ciężarze gatunkowym — rozstrzyga o pozbawieniu wolności wnioskodawcy w drodze obserwacji psychiatrycznej. Zgodnie z wyrokiem Europejskiego Trybunału Praw Człowieka z dnia 14.10.2021 r. w sprawie **M.B. przeciwko Polsce (skarga nr 60157/15)**, pozbawienie wolności osoby z zaburzeniami psychicznymi wymaga spełnienia szczególnie rygorystycznych standardów legalności.
+5. Niniejsza sprawa dotyczy kwestii o szczególnym ciężarze gatunkowym — rozstrzyga o pozbawieniu wolności wnioskodawcy w drodze obserwacji psychiatrycznej. Zgodnie z orzecznictwem Europejskiego Trybunału Praw Człowieka, sprawy dotyczące pozbawienia wolności wymagają szczególnie ścisłej kontroli niezależności sądu.
 
-6. W sytuacji, gdy o pozbawieniu wolności decyduje sędzia, którego niezależność strukturalna budzi obiektywne wątpliwości, zachodzi uzasadniona obawa, że standard art. 5 ust. 1 lit. e EKPC oraz art. 6 ust. 1 EKPC nie zostanie dochowany.
+6. W sytuacji, gdy o pozbawieniu wolności decyduje sędzia, którego niezależność strukturalna budzi obiektywne wątpliwości, zachodzi uzasadniona obawa, że standard art. 5 ust. 1 lit. e EKPC (legalność pozbawienia wolności) nie zostanie prawidłowo zastosowany.
 
 ---
 
@@ -49,11 +49,15 @@ od rozpoznawania sprawy o sygn. akt VI Kz 289/26.
 
 ### A. Stan faktyczny
 
-7. W sprawie 4096-6.Ds.94.2025 biegli powołani przez prokuraturę twierdzą, że przeprowadzenie badania sądowo-psychiatrycznego w trybie ambulatoryjnym **nie jest możliwe** i konieczna jest obserwacja w zakładzie psychiatrycznym w Toszku.
+7. W sprawie o sygn. akt **II Kp 550/25** biegli powołani przez prokuraturę twierdzą, że przeprowadzenie badania sądowo-psychiatrycznego w trybie ambulatoryjnym **nie jest możliwe** i konieczna jest obserwacja psychiatryczna.
 
-8. Jednocześnie **istnieje nowsza opinia sądowo-psychiatryczna**, wydana po przeprowadzeniu badania w trybie ambulatoryjnym — co bezpośrednio przeczy twierdzeniu biegłych o niemożności takiego badania.
+8. Jednocześnie **istnieje nowsza opinia sądowo-psychiatryczna**, wydana przez:
+   - **Biegłą: Małgorzatę Jakus** (specjalista psychiatrii)
+   - **Data opinii:** 23.04.2026 r.
+   - **Podstawa opinii:** Badanie sądowo-psychiatryczne przeprowadzone **w trybie ambulatoryjnym w dniu 17.10.2025 r.** w gabinecie w Zabrzu, w obecności adwokata
+   - Ta opinia **bezpośrednio przeczy** twierdzeniu wcześniejszych biegłych o niemożności takiego badania — badanie ambulatoryjne **faktycznie odbyło się i zostało udokumentowane**.
 
-9. Sprzeczność ta nie została wyjaśniona przez sąd ani prokuratora przed podjęciem decyzji o skierowaniu na obserwację.
+9. Sprzeczność ta nie została wyjaśniona przez sąd ani prokuratora **przed podjęciem decyzji** o skierowaniu na obserwację psychiatryczną w Toszku — sąd zaś wydał orzeczenie opierając się wyłącznie na opinii kwestionującej możliwość badania ambulatoryjnego, nie uwzględniając dowodu przeciwnego (faktycznie przeprowadzonego badania).
 
 ### B. Standard wynikający z wyroku ETPCz M.B. p. Polsce (60157/15)
 
@@ -70,17 +74,32 @@ od rozpoznawania sprawy o sygn. akt VI Kz 289/26.
     - *„Opinia lekarska nie jest wystarczająca dla uzasadnienia pozbawienia wolności, jeśli od jej sporządzenia upłynął znaczny czas."*
     - Sąd ma obowiązek wyjaśnić sprzeczności między opiniami biegłych a innymi dowodami medycznymi **przed** pozbawieniem wolności.
 
-12. W sprawie M.B. Trybunał uznał opinie z 17.01.2014 r. i 3.02.2014 r. za niewystarczająco aktualne w momencie umieszczenia skarżącego w szpitalu (4.08.2015 r.) — upływ ok. 18 miesięcy, przy jednoczesnym ignorowaniu dowodów poprawy stanu zdrowia.
+12. W sprawie M.B. Trybunał uznał opinie z 17.01.2014 r. i 3.02.2014 r. za niewystarczająco aktualne w momencie umieszczenia skarżącego w szpitalu (4.08.2015 r.) — upływ ok. 18 miesięcy uznano za zbyt długi, aby opinie mogły stanowić wystarczającą podstawę dla takiego ograniczenia wolności.
 
-### C. Zastosowanie do niniejszej sprawy
+### C. Zastosowanie do niniejszej sprawy — SPRZECZNOŚĆ OBIEKTYWNA
 
-13. Analogia jest bezpośrednia:
-    - **Istnieje nowsza opinia** wydana po badaniu ambulatoryjnym, która przeczy twierdzeniom biegłych o niemożności takiego badania.
-    - Sąd nie wyjaśnił sprzeczności między tą opinią a wnioskiem o obserwację.
-    - Skierowanie na obserwację w Toszku — stanowiące de facto pozbawienie wolności — opiera się na twierdzeniach biegłych, które zostały podważone przez późniejsze badanie ambulatoryjne.
-    - Zgodnie ze standardem M.B. p. Polsce, sąd **powinien był** oprzeć się na najaktualniejszej opinii medycznej lub co najmniej wyjaśnić rozbieżność przed pozbawieniem wolności.
+13. Analogia do wyroku M.B. p. Polsce jest bezpośrednia i jeszcze bardziej jaskrawa:
 
-14. Odmowa uwzględnienia nowszej opinii i oparcie decyzji o pozbawieniu wolności wyłącznie na opinii biegłych kwestionujących możliwość badania ambulatoryjnego — gdy takie badanie faktycznie przeprowadzono — stanowi naruszenie art. 5 ust. 1 lit. e EKPC w świetle wyroku M.B. p. Polsce.
+    **Linia czasu faktów:**
+    - **17.10.2025 r.:** Badanie ambulatoryjne przeprowadzone (dowodem że **jest możliwe**)
+    - **23.04.2026 r.:** Opinia biegłej Jakus wydana — potwierdzająca że badanie ambulatoryjne odbyło się
+    - **Rok różnicy:** Między twierdzeniem o niemożliwości a dowodem możliwości
+    
+    **Sprzeczność:**
+    - Biegli prokuratorcy: „badanie ambulatoryjne niemożliwe" → FAŁSZ (dowód: badanie z 17.10.2025)
+    - Biegła Jakus: „badanie ambulatoryjne przeprowadzone" → PRAWDA (dowodem jest sama opinia wydana po badaniu)
+
+14. Sąd zaś **powinien był**:
+    - ✅ Oprzeć się na najaktualniejszej opinii medycznej (Jakus, 23.04.2026 r.)
+    - ✅ Wyjaśnić rozbieżność między opiniami **przed** pozbawieniem wolności
+    - ✅ Zastosować standard M.B. p. Polsce — aktualność i rzetelność opinii medycznej
+    
+    **Sąd zaś:**
+    - ❌ Nie uwzględnił nowszej opinii
+    - ❌ Nie wyjaśnił sprzeczności
+    - ❌ Oparł decyzję o pozbawieniu wolności na podważonej przesłance (niemożliwość badania ambulatoryjnego)
+
+15. Odmowa uwzględnienia opinii biegłej Jakus i oparcie orzeczenia na opinii biegłych kwestionujących możliwość badania ambulatoryjnego — gdy takie badanie **faktycznie odbyło się** — stanowi naruszenie standardu art. 5 ust. 1 lit. e EKPC i wymaga ponownego rozpatrzenia sprawy.
 
 ---
 
@@ -90,7 +109,7 @@ Na podstawie art. 267 Traktatu o funkcjonowaniu Unii Europejskiej wnoszę o skie
 
 ### Pytanie:
 
-> Czy art. 19 ust. 1 Traktatu o Unii Europejskiej w związku z art. 47 Karty Praw Podstawowych Unii Europejskiej należy interpretować w ten sposób, że sprzeczny z wymogiem niezależnego sądu ustanowionego ustawą jest system krajowy, w którym:
+> Czy art. 19 ust. 1 Traktatu o Unii Europejskiej w związku z art. 47 Karty Praw Podstawowych Unii Europejskiej należy interpretować w ten sposób, że sprzeczny z wymogiem niezależnego sądu pozostaje system delegacji sędziego, w ramach którego:
 >
 > (a) sędzia może być delegowany do orzekania w sądzie wyższej instancji wyłącznie na podstawie decyzji organu władzy wykonawczej (Ministra Sprawiedliwości),  
 > (b) delegacja ta może być odwołana w dowolnym czasie bez podania przyczyny,  
@@ -101,18 +120,18 @@ Na podstawie art. 267 Traktatu o funkcjonowaniu Unii Europejskiej wnoszę o skie
 
 ### Uzasadnienie obowiązku skierowania pytania
 
-15. Na podstawie art. 267 akapit 3 TFUE sąd krajowy, którego orzeczenia nie podlegają zaskarżeniu w ramach krajowego toku instancji, **ma obowiązek** skierowania pytania prejudycjalnego do TSUE, jeżeli powstaje wątpliwość co do wykładni prawa Unii Europejskiej.
+16. Na podstawie art. 267 akapit 3 TFUE sąd krajowy, którego orzeczenia nie podlegają zaskarżeniu w ramach krajowego toku instancji, **ma obowiązek** skierowania pytania prejudycjalnego do TSUE w sytuacji, gdy powstaje wątpliwość co do interpretacji prawa UE.
 
-16. Zgodnie z orzecznictwem Trybunału Sprawiedliwości UE, w szczególności wyrokiem w sprawie **C-283/81 CILFIT**, odstąpienie od skierowania pytania prejudycjalnego jest dopuszczalne wyłącznie w sytuacji, gdy prawidłowe stosowanie prawa Unii jest tak oczywiste, że nie pozostawia żadnych racjonalnych wątpliwości interpretacyjnych (*acte clair*), przy uwzględnieniu specyfiki prawa unijnego oraz konieczności jego jednolitej wykładni we wszystkich państwach członkowskich.
+17. Zgodnie z orzecznictwem Trybunału Sprawiedliwości UE, w szczególności wyrokiem w sprawie **C-283/81 CILFIT**, odstąpienie od skierowania pytania prejudycjalnego jest dopuszczalne wyłącznie w trzech przypadkach (acte clair, acte éclairé, precedens), które wyraźnie tutaj nie zachodzą.
 
-17. W niniejszej sprawie wątpliwość co do zgodności krajowego modelu delegacji sędziowskiej z prawem UE **nie jest oczywista** (nie zachodzi *acte clair*), o czym świadczy:
+18. W niniejszej sprawie wątpliwość co do zgodności krajowego modelu delegacji sędziowskiej z prawem UE **nie jest oczywista** (nie zachodzi *acte clair*), o czym świadczy:
     - toczące się postępowanie przed Sądem Najwyższym (I KZP 1/26),
     - rozbieżne orzecznictwo krajowe,
     - dotychczasowe orzecznictwo TSUE (C-487/19, C-791/19, C-824/18 A.B., C-506/04 Wilson, C-585/18, C-624/18, C-625/18).
 
-18. Nawet jeśli sąd rozpoznający niniejszą sprawę nie jest formalnie sądem „ostatniej instancji", to w świetle wyroku TSUE w sprawie **C-561/19 Consorzio Italian Management** każdy sąd krajowy **może** zadać pytanie prejudycjalne, a w sytuacji istotnej wątpliwości co do prawa UE powinien rozważyć takie skierowanie. Odmowa wymaga pełnego uzasadnienia w świetle standardu CILFIT.
+19. Nawet jeśli sąd rozpoznający niniejszą sprawę nie jest formalnie sądem „ostatniej instancji", to w świetle wyroku TSUE w sprawie **C-561/19 Consorzio Italian Management** każdy sąd krajowy może (a w razie wątpliwości — powinien) skierować pytanie prejudycjalne.
 
-19. Ponadto, w sytuacji gdy przedmiotem sprawy jest **pozbawienie wolności** (obserwacja psychiatryczna), standard ochrony praw jednostki wymaga szczególnej staranności w zapewnieniu niezależności sądu orzekającego, co dodatkowo uzasadnia skierowanie pytania prejudycjalnego.
+20. Ponadto, w sytuacji gdy przedmiotem sprawy jest **pozbawienie wolności** (obserwacja psychiatryczna), standard ochrony praw jednostki wymaga szczególnej staranności w zapewnieniu niezależności i bezstronności sądu. Pytanie do TSUE jest zatem konieczne dla ochrony praw podstawowych.
 
 ---
 
@@ -122,7 +141,7 @@ Na podstawie art. 441 § 1 k.p.k. wnoszę o przedstawienie Sądowi Najwyższemu 
 
 ### Zagadnienie:
 
-> Czy udział w składzie orzekającym sędziego sądu rejonowego delegowanego do orzekania w sądzie okręgowym przez Ministra Sprawiedliwości, w trybie art. 77 ustawy — Prawo o ustroju sądów powszechnych, stanowi nienależytą obsadę sądu w rozumieniu art. 439 § 1 pkt 2 k.p.k., a w konsekwencji bezwzględną przyczynę odwoławczą skutkującą uchyleniem orzeczenia — w sytuacji gdy:
+> Czy udział w składzie orzekającym sędziego sądu rejonowego delegowanego do orzekania w sądzie okręgowym przez Ministra Sprawiedliwości stanowi nienależytą obsadę sądu w rozumieniu art. 439 § 1 pkt 2 k.p.k., w szczególności gdy:
 >
 > (a) system delegacji przewiduje możliwość swobodnego odwołania sędziego z delegacji przez organ władzy wykonawczej,  
 > (b) nie zapewnia skutecznej kontroli sądowej decyzji Ministra Sprawiedliwości,  
@@ -131,10 +150,11 @@ Na podstawie art. 441 § 1 k.p.k. wnoszę o przedstawienie Sądowi Najwyższemu 
 
 ### Uzasadnienie
 
-20. Zagadnienie to wymaga rozstrzygnięcia przez Sąd Najwyższy z uwagi na:
+21. Zagadnienie to wymaga rozstrzygnięcia przez Sąd Najwyższy z uwagi na:
     - aktualnie zawisłą przed SN sprawę I KZP 1/26 (pytanie prawne SO Rzeszów),
-    - rozbieżność w orzecznictwie między linią III CZP 103/15 (dopuszczalność delegacji) a nowszymi orzeczeniami kwestionującymi niezależność sędziów delegowanych,
-    - konieczność ujednolicenia praktyki sądowej w sprawach dotyczących pozbawienia wolności.
+    - rozbieżność w orzecznictwie między linią III CZP 103/15 (dopuszczalność delegacji co do zasady) a nowszymi orzeczeniami kwestionującymi niezależność sędziów delegowanych,
+    - konieczność ujednolicenia praktyki sądowej w sprawach dotyczących pozbawienia wolności,
+    - szczególny ciężar gatunek sprawy (ograniczenie wolności osoby w drodze obserwacji psychiatrycznej).
 
 ---
 
@@ -142,29 +162,42 @@ Na podstawie art. 441 § 1 k.p.k. wnoszę o przedstawienie Sądowi Najwyższemu 
 
 Na podstawie powyższego wnoszę o:
 
-1. **Wyłączenie SSR del. Piotra Pawlika** od rozpoznania sprawy VI Kz 289/26, z uwagi na uzasadnione wątpliwości co do jego niezależności strukturalnej wynikającej z delegacji przez Ministra Sprawiedliwości/Prokuratora Generalnego.
+1. **Wyłączenie SSR del. Piotra Pawlika** od rozpoznania sprawy VI Kz 289/26, z uwagi na uzasadnione wątpliwości co do jego niezależności strukturalnej wynikającej z delegacji przez Ministra Sprawiedliwości.
 
 2. **Skierowanie pytania prejudycjalnego do TSUE** w zakresie zgodności systemu delegacji sędziowskiej z art. 19 ust. 1 TUE i art. 47 KPP UE.
 
 3. **Przedstawienie zagadnienia prawnego Sądowi Najwyższemu** w zakresie kwalifikacji udziału sędziego delegowanego jako nienależytej obsady sądu (art. 439 § 1 pkt 2 k.p.k.).
 
-4. **Uwzględnienie standardu aktualności opinii biegłych** wynikającego z wyroku ETPCz z 14.10.2021 r. w sprawie M.B. przeciwko Polsce (skarga nr 60157/15) i wyjaśnienie sprzeczności między opinią biegłych w sprawie 4096-6.Ds.94.2025 a nowszą opinią wydaną po badaniu ambulatoryjnym — **przed** podjęciem decyzji o pozbawieniu wolności w drodze obserwacji psychiatrycznej.
+4. **Uwzględnienie standardu aktualności opinii biegłych** wynikającego z wyroku ETPCz z 14.10.2021 r. w sprawie M.B. przeciwko Polsce (skarga nr 60157/15) — wyjaśnienie sprzeczności między opinią prokuratorskich biegłych (niemożliwość badania ambulatoryjnego z 2025 r.) a opinią biegłej Jakus (badanie ambulatoryjne przeprowadzone 17.10.2025 r. i udokumentowane 23.04.2026 r.).
+
+5. **Uchylenie postanowienia o obserwacji psychiatrycznej** wydanego w oparciu o podważoną przesłankę.
 
 ---
 
 ## ZAŁĄCZNIKI
 
-1. Wyrok ETPCz z 14.10.2021 r. w sprawie M.B. przeciwko Polsce, skarga nr 60157/15
-2. Opinia sądowo-psychiatryczna wydana po badaniu ambulatoryjnym [data, sygn.]
-3. Opinia biegłych w sprawie 4096-6.Ds.94.2025 (twierdzenie o niemożności badania ambulatoryjnego)
-4. Informacja o pytaniu prawnym I KZP 1/26 (SN)
-5. [Ewentualnie: dokumenty potwierdzające delegację SSR Piotra Pawlika]
+1. ✅ Wyrok ETPCz z 14.10.2021 r. w sprawie M.B. przeciwko Polsce, skarga nr 60157/15
+
+2. ✅ Opinia sądowo-psychiatryczna biegłej Małgorzaty Jakus z dnia 23.04.2026 r.
+   - Podstawa: Badanie sądowo-psychiatryczne z 17.10.2025 r.
+   - Miejsce: Zabrze (tryb ambulatoryjny)
+
+3. ✅ Opinia biegłych w sprawie II Kp 550/25 (twierdzenie o niemożności badania ambulatoryjnego)
+
+4. ✅ Postanowienie Sądu Rejonowego II Wydział Karny w Mikołowie o zarządzeniu obserwacji psychiatrycznej
+
+5. ✅ Informacja o pytaniu prawnym I KZP 1/26 (SN)
+
+6. ✅ Dokumenty potwierdzające delegację SSR Piotra Pawlika
 
 ---
 
-**[miejscowość], dnia [data]**
+**Lubliniec, dnia 23.04.2026 r.**
 
-**[podpis wnioskodawcy / obrońcy]**
+**Tomasz Świestowski**  
+ul. Czarnoleśna 43C/3, 41-709 Ruda Śląska
+
+[lub: imię i nazwisko obrońcy]
 
 ---
 
