@@ -232,6 +232,55 @@ Obecna Rzeczniczka Praw Dziecka, Monika Horna-Cieślak, zajmuje się kwestią pi
 
 > Historia legislacyjna dotycząca pieczy naprzemiennej w Polsce ujawnia powtarzający się schemat: inicjatywy parlamentarne (często ponadpartyjne) są blokowane lub opóźniane przez instytucję RPD, która za każdym razem wskazuje na „szersze" lub „kompleksowe" prace prowadzone gdzie indziej. Projekty rządowe jednak nie powstają lub nie przechodzą ścieżki legislacyjnej. W efekcie od 2019 r. do połowy 2025 r. nie uchwalono żadnej regulacji wzmacniającej pieczę naprzemienną ani egzekwowanie kontaktów — mimo istnienia gotowych projektów i poparcia ponadpartyjnego.
 
+### Systemowe torpedowanie legislacji a ochrona rodziny w Konstytucji RP
+
+Opisany powtarzający się wzorzec — gdzie organ państwowy powołany do ochrony praw dziecka faktycznie blokuje inicjatywy legislacyjne mające na celu rozwiązanie patologicznej sytuacji — wskazuje na celowe działania torpedujące wprowadzenie rozstrzygnięć dotyczących podstawowej jednostki społecznej chronionej w konstrukcji ustrojowej Rzeczypospolitej Polskiej.
+
+Rzecznik Praw Dziecka, jako teoretycznie organ stojący na straży praw dziecka, w praktyce stoi na straży obecnej **patologicznej i nierozwiązywalnej przez sądy rodzinne sytuacji**, w której rodzic posiadający prawomocne orzeczenie sądu nie może wyegzekwować kontaktu ze swoim dzieckiem i traci z nim więź.
+
+#### Argument „ultima ratio" prawa karnego
+
+W debacie publicznej osoby przeciwne penalizacji alienacji rodzicielskiej powołują się na zasadę *ultima ratio* prawa karnego — czyli przekonanie, że prawo karne powinno być ostatecznym środkiem, stosowanym dopiero gdy inne gałęzie prawa zawiodą.
+
+**Problem polega na tym, że inne gałęzie prawa faktycznie zawiodły.** Sądy rodzinne nie dysponują skutecznymi narzędziami egzekucji kontaktów. Grzywny nakładane na rodzica alienującego są symboliczne i nieskuteczne. Kuratorzy nie mają realnych uprawnień. System od lat nie działa — i właśnie dlatego zasada *ultima ratio* **przemawia za**, a nie przeciw, penalizacji.
+
+#### Współczesny jasyr
+
+Celowe i systematyczne odizolowanie dziecka od jednego z rodziców — wbrew orzeczeniu sądu — stanowi formę przemocy psychicznej zarówno wobec dziecka, jak i alienowanego rodzica. Jest to współczesna wersja jasyru, w której:
+
+- **Niewolę osmańską** zastąpiono nakazem opuszczenia własnego mieszkania i zakazem zbliżania się
+- **Kontakt z porwanym** (dzieckiem) jest karany — próby kontaktu telefonicznego czy osobistego są wykorzystywane jako „dowody nękania"
+- **Ofiara staje się sprawcą** — rodzic próbujący utrzymać kontakt z własnym dzieckiem ryzykuje zarzut z art. 190a KK (uporczywe nękanie/stalking), za który w aktualnym stanie prawnym grozi do 8 lat pozbawienia wolności
+
+#### Problem konstytucyjności art. 190a KK w kontekście rodzinnym
+
+Stosowanie przepisów o stalkingu wobec rodzica realizującego (lub próbującego realizować) orzeczenie sądu o kontaktach budzi poważne wątpliwości konstytucyjne:
+
+1. **Art. 18 Konstytucji RP** — Małżeństwo jako związek kobiety i mężczyzny, rodzina, macierzyństwo i rodzicielstwo znajdują się pod ochroną i opieką Rzeczypospolitej Polskiej
+2. **Art. 48 Konstytucji RP** — Rodzice mają prawo do wychowania dzieci zgodnie z własnymi przekonaniami
+3. **Art. 72 ust. 1 Konstytucji RP** — Rzeczpospolita Polska zapewnia ochronę praw dziecka (w tym prawo do kontaktu z obojgiem rodziców)
+4. **Art. 31 ust. 3 Konstytucji RP** — Ograniczenia w zakresie korzystania z konstytucyjnych wolności i praw mogą być ustanawiane tylko wtedy, gdy są konieczne w demokratycznym państwie
+
+Kryminalizacja prób kontaktu rodzica z dzieckiem — w sytuacji gdy istnieje orzeczenie sądu przyznające prawo do tego kontaktu — stanowi potencjalnie niekonstytucyjne ograniczenie prawa do życia rodzinnego i prawa do wychowania dziecka.
+
+#### Mechanizm pułapki prawnej
+
+```
+ORZECZENIE SĄDU: Rodzic A ma prawo do kontaktu z dzieckiem
+         ↓
+RODZIC B (alienator): Uniemożliwia kontakt, składa zawiadomienie o nękaniu
+         ↓
+NAKAZ: Rodzic A dostaje zakaz zbliżania się (do alienatora, a faktycznie do dziecka)
+         ↓
+PRÓBA KONTAKTU: Rodzic A próbuje realizować orzeczenie o kontaktach
+         ↓
+ZARZUT: Art. 190a KK — „uporczywe nękanie" — do 8 lat pozbawienia wolności
+         ↓
+EFEKT: Rodzic posiadający orzeczenie sądu staje się przestępcą za próbę jego realizacji
+```
+
+Ten mechanizm jest systemową patologią, w której **dwa orzeczenia tego samego wymiaru sprawiedliwości wzajemnie się wykluczają** — orzeczenie o kontaktach nakazuje kontakt, a zakaz zbliżania go zabrania. Rodzic zostaje uwięziony w sprzeczności prawnej, z której nie ma legalnego wyjścia.
+
 ---
 
 ## 9. Źródła
@@ -244,3 +293,5 @@ Obecna Rzeczniczka Praw Dziecka, Monika Horna-Cieślak, zajmuje się kwestią pi
 - Stenogram z 15. posiedzenia Senatu RP X kadencji, 11 września 2020 r., punkt 8. porządku obrad. Wypowiedź senatora Aleksandra Pocieja.
 - Pismo RPD Moniki Horny-Cieślak, sygnatura PI79-01/7, w sprawie inicjatywy ustawodawczej Senatu dot. pieczy naprzemiennej.
 - Biuro Rzecznika Praw Dziecka, „Ochrona dzieci w obliczu sporów rodzicielskich" — relacja z posiedzenia Komisji ds. Dzieci i Młodzieży oraz Komisji Sprawiedliwości i Praw Człowieka, 19 grudnia 2024 r. https://brpd.gov.pl/2024/12/19/ochrona-dzieci-w-obliczu-sporow-rodzicielskich
+- Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz.U. 1997 nr 78 poz. 483), art. 18, 48, 71, 72.
+- Art. 190a Kodeksu karnego (Dz.U. 1997 nr 88 poz. 553 ze zm.) — uporczywe nękanie (stalking).
