@@ -2,296 +2,168 @@
 
 ---
 
-## 1. Co pokazuje tabela
+## Executive summary
 
-Dane z GUS i Ministerstwa Sprawiedliwości dotyczą orzeczeń sądowych o wykonywaniu władzy rodzicielskiej po rozwodzie w Polsce w latach 2018–2024.
+- Cel: Zrekonstruować i ocenić polskie dane (GUS, Ministerstwo Sprawiedliwości) dotyczące orzeczeń o wykonywaniu władzy rodzicielskiej (2018–2024) oraz ocenić, czy można na ich podstawie testować hipotezę znaną z Fernández‑Kranz et al. (2021) o wpływie shared custody na przemoc partnerską.
+- Główne obserwacje: W zrekonstruowanych danych rośnie udział orzeczeń o wspólnej władzy rodzicielskiej (z 57,8% w 2018 r. do ~67,6% w 2024 r.). Uwaga: termin "wspólna władza" w polskim prawie nie równa się automatycznie fizycznej pieczy naprzemiennej.
+- Główne ograniczenia: brak jednorodnej reformy ustawowej (brak naturalnego eksperymentu), niepewność co do operacjonalizacji "opieki naprzemiennej" w dostępnych statystykach oraz brak jawnych, powiązanych danych policyjnych/zdrowotnych na poziomie lokalnym.
+- Rekomendacja badawcza (krótko): uzyskać dane panelowe na poziomie okręgów sądowych i powiatów, powiązać orzeczenia z danymi policji/Niebieskiej Karty/zdrowia i zaprojektować quasi‑eksperyment (różnice w praktyce sądowej, zmiany składu sędziowskiego, pilotaż regionu).
 
-### Kluczowe trendy:
+---
 
-| Wskaźnik | 2018 | 2024 | Zmiana |
-|----------|------|------|--------|
-| **Razem matce i ojcu** (wspólna władza) | 21 020 (57,8%) | 24 260 (67,6%) | **+15,4%** udziału |
-| **Matce** (wyłączna) | 13 360 (36,8%) | 9 950 (27,7%) | **−25,5%** spadek |
-| **Ojcu** (wyłączna) | 1 270 (3,5%) | 1 090 (3,0%) | stabilnie nisko |
-| **Razem rozwodów z dziećmi** | 36 330 | 35 870 | stabilnie |
+## 1. Co pokazuje tabela — skrót wyników opisowych
 
-### Dane źródłowe (rekonstrukcja na podstawie danych GUS i Ministerstwa Sprawiedliwości):
+Dane z GUS i Ministerstwa Sprawiedliwości dotyczą orzeczeń sądowych o wykonywaniu władzy rodzicielskiej po rozwodzie w Polsce w latach 2018–2024. Poniżej znajduje się zrekonstruowana tabela (źródła: GUS, MS — patrz sekcja Źródła). 
 
+Uwaga krytyczna: W pliku oryginalnym występuje niezgodność numeryczna między opisem trendu a wartościami w tabeli (wartość 2023 dla "Razem matce i ojcu" wydaje się być wyższa niż w 2024 r., mimo że tekst podaje monotoniczny wzrost 2018→2024). Proszę zweryfikować oryginalne pliki GUS/MS i poprawić, jeśli to konieczne — zobacz sekcję Data & Methods.
+
+### Kluczowe trendy (skrót)
+- Wspólna władza: 57,8% (2018) → ~67,6% (2024) (trend wzrostowy w zrekonstruowanych danych).
+- Wyłączna przy matce: spadek w liczbach bezwzględnych i udziałach.
+- Wyłączna przy ojcu: stabilnie niskie wartości.
+
+### Zrekonstruowane dane (2018–2024)
 | Rok | Matce | Ojcu | Razem matce i ojcu | Oddzielnie matce i ojcu | Rodzinie zastępczej | Placówce wychowawczej | Inne | Razem |
-|-----|-------|------|-------------------|------------------------|--------------------|-----------------------|------|-------|
+|-----:|------:|-----:|-------------------:|------------------------:|--------------------:|-----------------------:|-----:|------:|
 | 2018 | 13 360 | 1 270 | 21 020 | 290 | 230 | 90 | 70 | 36 330 |
 | 2019 | 12 150 | 1 150 | 22 820 | 270 | 220 | 80 | 70 | 36 760 |
 | 2020 | 10 780 | 1 110 | 23 140 | 250 | 210 | 70 | 60 | 35 620 |
-| 2021 | 9 920 | 1 020 | 24 860 | 240 | 200 | 70 | 60 | 36 370 |
-| 2022 | 8 940 | 960 | 25 680 | 230 | 190 | 60 | 60 | 36 120 |
-| 2023 | 8 020 | 920 | 27 120 | 220 | 180 | 60 | 50 | 36 570 |
-| 2024 | 9 950 | 1 090 | 24 260 | 240 | 200 | 70 | 60 | 35 870 |
+| 2021 | 9 920  | 1 020 | 24 860 | 240 | 200 | 70 | 60 | 36 370 |
+| 2022 | 8 940  | 960   | 25 680 | 230 | 190 | 60 | 60 | 36 120 |
+| 2023 | 8 020  | 920   | 27 120 | 220 | 180 | 60 | 50 | 36 570 |
+| 2024 | 9 950  | 1 090 | 24 260 | 240 | 200 | 70 | 60 | 35 870 |
 
-### Interpretacja strukturalna:
-
-- **Kolumna „Razem matce i ojcu"** to prawdopodobnie orzeczenie wspólnej władzy rodzicielskiej (art. 58 KRO), co w polskim prawie **nie jest tożsame z opieką naprzemienną** (piecza naprzemienna), ale jest jej warunkiem koniecznym.
-- **„Oddzielnie matce i ojcu"** (230–290 rocznie) — to szczególna kategoria, prawdopodobnie podział kompetencji rodzicielskich, nie naprzemienna opieka fizyczna.
-- Widoczny jest wyraźny **trend ku orzekaniu wspólnej władzy** — z 57,8% do 67,6% w ciągu 6 lat.
+Data validation note: The 2023 value for "Razem matce i ojcu" (27 120) is higher than 2024 (24 260), which contradicts the textual claim of monotonic growth from 2018 to 2024. Please verify the source tables or provide the source files/CSVs so we can correct the reconstruction.
 
 ---
 
-## 2. Problem: Polska nie ma „naturalnego eksperymentu" jak Hiszpania
+## 2. Definicje i zakres pojęciowy (ważne techniczne rozróżnienia)
 
-Badanie Fernández-Kranz, Nollenberger i Roff (2021) wykorzystało fakt, że **różne regiony Hiszpanii wprowadzały ustawy o opiece naprzemiennej w różnych latach** (2010–2015). To stworzyło quasi-losowy podział na grupy „leczoną" i „kontrolną".
+- Władza rodzicielska (wspólna vs. wyłączna): w polskim Kodeksie rodzinnym i opiekuńczym "władza rodzicielska" odnosi się do praw i obowiązków rodzicielskich (decyzje wychowawcze, majątkowe). "Razem matce i ojcu" zwykle oznacza orzeczenie o wspólnej władzy rodzicielskiej, ale nie determinuje miejsca zamieszkania dziecka.
+- Opieka naprzemienna / piecza naprzemienna (physical shared custody): układ, w którym dziecko regularnie zmienia miejsce zamieszkania między rodzicami (faktyczna zamiana miejsca pobytu) — to inny koncept niż sama wspólna władza.
+- "Oddzielnie matce i ojcu" (rekonstruowane kategorie statystyczne) — wskazuje na rozdzielenie kompetencji lub kontakty, niekoniecznie realną opiekę naprzemienną.
 
-**W Polsce takiej sytuacji nie ma**, ponieważ:
-- Prawo rodzinne jest jednolite dla całego kraju
-- Nie było jednorazowej reformy legislacyjnej promującej opiekę naprzemienną
-- Zmiana następuje **ewolucyjnie** — przez orzecznictwo sądowe, nie przez ustawę
-
-To oznacza, że **nie da się w Polsce zreplikować tego samego designu badawczego**. Ale można próbować innej analizy.
+Z tego powodu każda analiza łącząca "wspólną władzę" z efektami społecznymi (np. przemocą) musi najpierw potwierdzić, czy decyzje o wspólnej władzy rzeczywiście zwiększają udział fizycznej opieki naprzemiennej.
 
 ---
 
-## 3. Co da się powiedzieć na podstawie polskich danych
+## 3. Co można wnioskować (ostrożnie)
 
-### Hipoteza do testowania:
-
-> Jeżeli mechanizm z badania hiszpańskiego działa również w Polsce, to wzrost udziału wspólnej władzy rodzicielskiej (proxy dla dostępności opieki naprzemiennej) powinien korelować ze spadkiem przemocy partnerskiej wobec kobiet w kontekście rozstania.
-
-### Dostępne dane uzupełniające, których potrzebujemy:
-
-| Źródło | Dane | Dostępność |
-|--------|------|------------|
-| Policja / KSIP | Liczba zamachów na życie partnerki/byłej partnerki, rok po roku | Częściowo publiczne |
-| Niebieska Karta | Liczba procedur NK wszczętych w kontekście separacji/rozwodu | Trudno dostępne |
-| MS | Skazania z art. 148 KK (zabójstwo) w relacji partnerskiej | Statystyki MS |
-| GUS | Zgony kobiet z przyczyn zewnętrznych w grupie wiekowej 25–50 | Publiczne |
-
-### Co widzimy bez tych danych (sam trend w tabeli):
-
-**2018 → 2024:**
-- Wspólna władza: 57,8% → 67,6% (+10 pp)
-- To ok. **3 200 dodatkowych rodzin rocznie**, w których ojciec zachowuje pełną władzę rodzicielską
-
-Jeżeli mechanizm hiszpański (spadek przemocy o 43–50% przy wzroście dostępności opieki naprzemiennej) przeniósłby się liniowo, to:
-
-> Przy założeniu, że w Polsce rocznie ~30–40 kobiet ginie z rąk partnera/byłego partnera (dane Fundacji Feminoteka / NIK), a 1/3 tych zabójstw wiąże się z kontekstem rozstania (10–13 przypadków), nawet 20-procentowy efekt ochronny oznaczałby 2–3 uratowane życia rocznie.
-
-**Ale to jest spekulacja, nie dowód.**
+- Opis: System sądowy coraz częściej orzeka wspólną władzę rodzicielską — to widoczny trend w zrekonstruowanych danych.
+- Nie da się jednak z tych danych stwierdzić, że wzrost wspólnej władzy prowadzi do wzrostu opieki naprzemiennej ani do spadku przemocy partnerskiej bez dodatkowych powiązań danych (policja, NK, zdrowie).
+- Wszystkie przekłady na "liczby uratowanych żyć" lub "procentowy spadek zabójstw" należy traktować jako spekulatywne, back-of-envelope i wyraźnie oznaczać założenia.
 
 ---
 
-## 4. Ograniczenia przeniesienia na polskie realia
+## 4. Problem badawczy: brak naturalnego eksperymentu w Polsce
 
-| Czynnik | Hiszpania | Polska |
-|---------|-----------|--------|
-| **Reforma** | Jasna zmiana legislacyjna | Brak — trend orzeczniczy |
-| **Domyślność** | Niektóre regiony wprowadziły domyślną opiekę naprzemienną | Domyślność nie istnieje — sąd decyduje indywidualnie |
-| **Kultura prawna** | Silne regiony autonomiczne z własnym prawem rodzinnym | Jednolity system |
-| **Przemoc partnerska — skala** | ~60 zabójstw partnerskich/rok (2010–2015) | ~30–40/rok (niższa populacja, podobna proporcja) |
-| **Raportowanie** | Relatywnie dobre | Prawdopodobnie zaniżone (problem Niebieskiej Karty) |
-| **Wspólna władza ≠ opieka naprzemienna** | W badaniu: fizyczna custody reform | W Polsce: wspólna władza ≠ fizyczna naprzemienna opieka |
-
-### Najważniejsze zastrzeżenie:
-
-**„Razem matce i ojcu" w polskich danych to wspólna władza rodzicielska, nie opieka naprzemienna w sensie fizycznym.** W praktyce dziecko może mieszkać u matki, a ojciec ma pełnię praw decyzyjnych. To jest słabszy „bodziec" niż w modelu hiszpańskim, gdzie reformy dotyczyły fizycznego czasu spędzanego z dzieckiem (custodia compartida).
+- Badanie Fernández‑Kranz et al. (2021) wykorzystało heterogeniczną, regionalną implementację reform (Hiszpania, 2010–2015). W Polsce brak jednolitej reformy oraz jednolity system prawny — zmiany następują przez orzecznictwo.
+- W związku z tym nie można bezpośrednio przenieść tego samego designu; potrzebne są alternatywne strategie identyfikacji (opisane dalej).
 
 ---
 
-## 5. Najmocniejszy argument, jaki da się sformułować
+## 5. Proponowany plan empiryczny — konkretne kroki (jak udowodnić to w Polsce)
 
-> Polskie dane pokazują, że system prawny **już zmierza** w kierunku większego udziału ojców we władzy rodzicielskiej — ale robi to bez świadomej polityki i bez towarzyszących reform dotyczących fizycznej opieki naprzemiennej. Badania hiszpańskie sugerują, że gdyby Polska poszła dalej — od wspólnej władzy do domyślnej opieki naprzemiennej — istnieje prawdopodobny mechanizm, przez który mogłoby to przyczynić się do zmniejszenia przemocy partnerskiej w kontekście rozstań. Przy obecnym poziomie danych jest to hipoteza, nie udowodniony fakt — ale jest to hipoteza z silnym wsparciem teoretycznym i jednym poważnym badaniem empirycznym.
-
----
-
-## 6. Co byłoby potrzebne, żeby to udowodnić w Polsce
-
-1. **Dane panelowe na poziomie okręgów sądowych** — różne sądy okręgowe mogą mieć różną praktykę orzekania opieki naprzemiennej. To stworzyłoby wariant regionalny zbliżony do hiszpańskiego.
-2. **Powiązanie danych MS o orzeczeniach z danymi policji o przemocy domowej** — na poziomie powiatu/okręgu.
-3. **Kontrola za zmienne zakłócające** — bezrobocie, alkoholizm, urbanizacja, dostępność pomocy społecznej.
-
-Bez tego mamy korelację trendu (więcej wspólnej władzy + możliwy spadek przemocy), ale nie mamy identyfikacji przyczynowej.
-
----
-
-## 7. Zalecenie Rady (UE) 2024/1238 a polska debata o opiece naprzemiennej
-
-### Kontekst dokumentu
-
-Zalecenie Rady (UE) 2024/1238 z 14 maja 2024 r. dotyczy zintegrowanych systemów ochrony dziecka. Dokument zobowiązuje państwa członkowskie do budowania kompleksowych systemów chroniących dzieci przed wszelkimi formami przemocy — w tym:
-- Wykorzystywanie seksualne (pkt 14)
-- Cyberszykanowanie (pkt 15)
-- Wymiar sprawiedliwości przyjazny dziecku (pkt 16)
-- Ochrona dzieci migrujących (pkt 17–18)
-- Finansowanie systemów ochrony (pkt 19–22)
-
-**Kluczowa zasada:** Najlepszy interes dziecka jako kwestia nadrzędna (pkt 2–3).
-
-### Relewantne fragmenty dla argumentacji o opiece naprzemiennej
-
-#### A. Zasada najlepszego interesu dziecka (pkt 2–3)
-
-> „Państwa członkowskie powinny zawsze traktować najlepszy interes dziecka jako kwestię nadrzędną, zapewniając uznanie, poszanowanie i ochronę dzieci jako podmiotów praw."
-
-**Znaczenie:** To jest standard unijny, który Polska musi wdrożyć. Jeżeli badania pokazują, że opieka naprzemienna koreluje ze spadkiem przemocy partnerskiej (a przemoc partnerska szkodzi dzieciom), to odmowa systemowego rozważenia opieki naprzemiennej może być sprzeczna z zasadą najlepszego interesu dziecka w rozumieniu prawa UE.
-
-#### B. Wymiar sprawiedliwości przyjazny dziecku (pkt 16)
-
-Zalecenie podkreśla:
-- **Rozporządzenie Bruksela II ter** (2019/1111) — dotyczy transgranicznych spraw dotyczących odpowiedzialności rodzicielskiej
-- **Zintegrowane podejście wielopodmiotowe** — nie tylko sąd, ale też służby społeczne, psychologowie
-- **Indywidualna ocena sytuacji dziecka**
-
-**Znaczenie dla Polski:** Polski system opiera się na orzeczeniu sądowym bez obowiązkowej oceny interdyscyplinarnej przed wydaniem decyzji o opiece. Zalecenie UE sugeruje, że Polska powinna przejść do modelu, w którym:
-1. Decyzja o formie opieki jest oparta na indywidualnej ocenie
-2. Uwzględnia się głos dziecka
-3. Funkcjonuje system monitorowania po orzeczeniu
-
-#### C. Ochrona przed przemocą domową — komponent Daphne (pkt 20)
-
-> „W ramach komponentu Daphne [...] Komisja zapewnia specjalne wsparcie finansowe na zapobieganie i zwalczanie przemocy wobec dzieci, przemocy ze względu na płeć wobec dziewcząt i przemocy domowej."
-
-**Znaczenie:** Istnieje unijne finansowanie na badania, które mogłyby zweryfikować hipotezę — czy wzrost opieki współdzielonej w Polsce koreluje ze spadkiem przemocy domowej. Polska może (i powinna) aplikować o środki na takie badania.
-
-#### D. Model Barnahus — domy dziecka (pkt 21)
-
-Instrument Wsparcia Technicznego wspiera **wprowadzanie domów dzieci zgodnie z modelem Barnahus** — nordycki model zintegrowanej ochrony dziecka, w którym decyzje dotyczące dziecka (w tym forma opieki po rozstaniu rodziców) podejmowane są w jednym miejscu przez zespół interdyscyplinarny.
-
-### Jak Zalecenie wzmacnia argumentację
-
-| Element z Zalecenia UE | Implikacja dla debaty o opiece naprzemiennej w Polsce |
-|------------------------|------------------------------------------------------|
-| Najlepszy interes dziecka = nadrzędna zasada | Systemowe wykluczanie opieki naprzemiennej wymaga uzasadnienia dowodowego |
-| Zintegrowane systemy ochrony | Decyzja o formie opieki powinna wynikać z oceny interdyscyplinarnej, nie z domyślnego przyznania matce |
-| Komponent Daphne | UE finansuje badania nad związkiem form opieki z przemocą — Polska może to wykorzystać |
-| Barnahus | Model interdyscyplinarny, w którym opieka naprzemienna jest normalną opcją |
-| Rozporządzenie Bruksela II ter | UE uznaje, że sprawy o odpowiedzialność rodzicielską wymagają współpracy transgranicznej — co zakłada, że oboje rodziców jest istotnych |
-
-### Argument prawny
-
-> Zalecenie Rady (UE) 2024/1238 zobowiązuje państwa członkowskie do budowania zintegrowanych systemów ochrony dziecka opartych na zasadzie najlepszego interesu dziecka. Jednocześnie badanie Fernández-Kranz et al. (2021) wskazuje, że opieka naprzemienna może zmniejszać przemoc partnerską — a przemoc partnerska jest jednym z głównych zagrożeń dla dzieci, przed którymi Zalecenie nakazuje chronić. Polski system, w którym 67,6% orzeczeń to wspólna władza rodzicielska, ale fizyczna opieka naprzemienna nie jest systemowo wspierana ani monitorowana, może nie spełniać unijnego standardu zintegrowanej ochrony dziecka.
-
-### Ograniczenia tego argumentu
-
-1. **Zalecenie nie jest prawnie wiążące** — to „soft law", nie dyrektywa ani rozporządzenie
-2. **Dokument nie wspomina wprost opieki naprzemiennej** — mówi o ochronie przed przemocą, nie o modelu custody
-3. **Polska ma margines implementacyjny** — może argumentować, że realizuje zasadę najlepszego interesu inaczej
+1. Zebranie danych:
+   - Orzeczenia sądów rodzinnych na poziomie okręgów/powiatów (panel 2015–2024) z rozbiciem na typ orzeczenia (wspólna władza vs wyłączna, i jeśli możliwe — notatka o miejscu pobytu dziecka).
+   - Dane policji/KSIP — Niebieska Karta (NK), zgłoszenia przemocy domowej, interwencje (powiat/okręg).
+   - Dane MS o skazaniach za przemoc (art. 207, 148 itd.) z geokodowaniem na powiat.
+   - Dane zdrowotne (hospitalizacje z urazami pourazowymi, zgłoszenia SOR).
+2. Strategia identyfikacji:
+   - Wykorzystać różnice w praktyce sądowej między okręgami (różne kolegia, różna "kultura" orzekania) jako quasi‑eksperyment: diff-in-diff lub event-study.
+   - Instrumenty: rotacje sędziowskie, zmiany w składach wydziałów rodzinnych, wprowadzenie lokalnych wytycznych.
+   - Robust checks: pre‑trendy, placebo outcomes, bounding.
+3. Metryki wyników:
+   - Liczba zgłoszeń NK, liczba interwencji policji, liczba zawiadomień o przemocy przy separacji, liczba zabójstw partnerów (female homicides), hospitalizacje.
+4. Etapy i pilotaż:
+   - Pilotaż w wybranych okręgach sądowych z dodatkowym monitoringiem po orzeczeniu (follow-up).
+   - Wnioski do finansowania z Daphne / Barnahus (wykorzystać zalecenie UE).
 
 ---
 
-## 8. Historia legislacyjna: blokada senackiego projektu i obecne stanowisko RPD
+## 6. Polityka i prawo — jak wykorzystać wnioski
 
-### Kontekst: wypowiedź senatora Aleksandra Pocieja (15. posiedzenie Senatu, 11 września 2020)
+Sugerowane, krótkie rekomendacje polityczne (bez przesądzania o modelu custody):
+1. Finansować badanie pilotażowe z powiązaniem danych sądowych i policyjnych (z wykorzystaniem funduszy UE, np. Daphne).
+2. Wprowadzić obowiązkowe, interdyscyplinarne oceny ryzyka przed wydaniem decyzji o miejscu pobytu dziecka (psycholog, służby społeczne, policja).
+3. Wzmacniać mechanizmy monitoringu po orzeczeniu (systemy zgłaszania problemów, follow-up).
+4. Przy dyskusjach legislacyjnych powoływać się na zasadę "najlepszego interesu dziecka" i dowodową ocenę skutków różnych modeli opieki (Zalecenie Rady (UE) 2024/1238 może służyć jako polityczne wsparcie, ale nie zastępuje dowodów empirycznych).
 
-Podczas rozpatrywania Informacji o działalności RPD za rok 2019 senator Aleksander Pociej (KO) publicznie rozliczył Rzecznika Praw Dziecka Mikołaja Pawlaka z zablokowania ponadpartyjnego projektu legislacyjnego dotyczącego egzekwowania kontaktów z dzieckiem po rozwodzie (pieczy naprzemiennej).
-
-#### Przebieg sprawy:
-
-1. **Senat IX kadencji** wypracował ponadpartyjny projekt (PiS + PO) na podstawie petycji — umożliwiający lepsze egzekwowanie prawa rodzica do kontaktu z dzieckiem, z którym nie zamieszkuje
-2. **Projekt był po pracach w Komisji Petycji** i w trakcie prac Komisji Ustawodawczej
-3. **Mikołaj Pawlak przyszedł na posiedzenie komisji** i zaapelował o wstrzymanie prac na rzecz „szerszego" projektu rządowego z Ministerstwa Sprawiedliwości, nad którym sam współpracował
-4. **Marszałek Karczewski zablokował senacki projekt** po deklaracji Pawlaka, że rządowy projekt „ma realną szansę być przeprowadzony przez proces legislacyjny"
-5. **Rządowy projekt nigdy nie został uchwalony** — Senat po roku wrócił do procedowania tego samego projektu od nowa
-
-#### Kluczowy cytat senatora Pocieja:
-
-> „I gdzie jest ten projekt? Co pan zrobił przez tę kadencję, żeby ten projekt się ukazał? **Po co pan to zablokował? Dla własnych ambicji, bo chciał pan, żeby projekt, nad którym pan pracował, jak pan twierdził, był tym, dzięki któremu będzie pan mógł wypiąć pierś do orderu?** Gdzie jest ten projekt? Pytam. Dzisiaj znowu pracujemy nad tym samym projektem."
-
-#### Dodatkowy zarzut — zmiana stanowiska:
-
-Pociej wskazał, że Pawlak rok wcześniej na posiedzeniu komisji nazwał senacki projekt „dobrym, tylko węższym", a następnie w piśmie do przewodniczącego Komisji Ustawodawczej sen. Krzysztofa Kwiatkowskiego negatywnie zaopiniował ten sam projekt, twierdząc, że „nie jest do przyjęcia".
-
-**Źródło:** Stenogram z 15. posiedzenia Senatu RP X kadencji, 11 września 2020 r., punkt 8. porządku obrad (Informacja o działalności Rzecznika Praw Dziecka za rok 2019).
+Uwaga prawna: Zalecenie Rady (UE) 2024/1238 ma charakter niewiążący (soft law). Nie przesądza o tym, który model pieczy jest lepszy — wymaga natomiast indywidualnej oceny sytuacji dziecka.
 
 ---
 
-### Obecne stanowisko RPD Moniki Horny-Cieślak (od grudnia 2023)
+## 7. Ograniczenia i ryzyka analityczne
 
-Obecna Rzeczniczka Praw Dziecka, Monika Horna-Cieślak, zajmuje się kwestią pieczy naprzemiennej i sporów rodzicielskich w kontekście systemowym. Z jej pisma (sygnatura PI79-01/7) oraz z posiedzenia połączonych Komisji ds. Dzieci i Młodzieży oraz Komisji Sprawiedliwości i Praw Człowieka (19 grudnia 2024 r.) wynika następujące stanowisko:
+- Błąd pomiaru: "wspólna władza" ≠ opieka naprzemienna.
+- Selekcja: sprawy trafiające do sądów mogą być niefunkcjonalnie wyselekcjonowane (wysoki konflikt).
+- Brak spójnych danych na poziomie lokalnym: NK i policja często nie są jawne lub są niekompletne.
+- Ryzyko interpretacyjne: nawet silna korelacja nie musi oznaczać efektu przyczynowego.
 
-#### Kluczowe elementy stanowiska RPD Horny-Cieślak:
+---
 
-1. **Komisja Kodyfikacyjna Prawa Rodzinnego** — RPD informuje, że w Ministerstwie Sprawiedliwości działa Komisja Kodyfikacyjna Prawa Rodzinnego (powołana na podstawie art. 11 ustawy o Rzeczniku Praw Dziecka, t.j. Dz.U. 292 z 2023), której celem jest kompleksowe zbadanie i analiza wskazanej problematyki. W skład Komisji wchodzą wybitni eksperci z różnych dziedzin, którzy podejmują szczegółowe badania oraz prowadzą merytoryczne debaty i konsultacje.
+## 8. Data & Methods — jak przygotować replikację (checklista)
 
-2. **Działanie na zaawansowanym poziomie** — W ocenie Rzeczniczki Praw Dziecka podejmowanie przez Senat przedmiotowej inicjatywy ustawodawczej, także w zakresie kompilowania z wysokim stopniem zaawansowania prac Komisji Kodyfikacyjnej, mogłoby stanowić istotne utrudnienie dla metodologii pracy Komisji i komplikowałoby realizację wyznaczonych celów, które mają wymiar systemowy.
+- Źródła pierwotne: podaj bezpośrednie linki do plików GUS (tabele roczne), do publikacji MS z orzeczeniami (CSV/Excel) i do statystyk policyjnych. Dołącz zrekonstruowane CSV(y) do repozytorium.
+- Reprodukowalność: dołącz notebook (Jupyter / R Markdown) z krokami:
+  1. Import surowych plików,
+  2. Kodowanie kategorii (co liczymy jako "Razem matce i ojcu"),
+  3. Sumy kontrolne (suma wierszy = "Razem"),
+  4. Wykresy i tabele.
+- Walidacja: dodaj testy sumaryczne (np. sumy roczne z GUS porównane z sumami per kategoria).
+- Weryfikacja anomalii: zaznacz wszystkie niezgodności (np. opisany 2023→2024). 
 
-3. **Perspektywa dziecka jako priorytet** — RPD podkreśla, że „kluczowa musi być perspektywa młodych osób" i że „dzieci są najbardziej pokrzywdzone w sytuacji konfliktu między dorosłymi"
+Przykładowy skrypt (appendix): prosty skrypt do wczytania CSV i wykresów (Python).
 
-4. **Wysłuchanie dziecka** — RPD krytykuje sądy, które nie stosują wysłuchania dzieci i nie uzasadniają, dlaczego odstąpiły od tej czynności
+---
 
-5. **Krytyka przymusowych odbiorów dzieci** — RPD „sprzeciwia się zdecydowanie odbiorom z miejsc, które powinny być bezpieczne dla dzieci" (przedszkola, szkoły)
+## 9. Appendix — przykładowy, prosty skrypt do wykresu (umieść plik `custody_reconstructed_2018_2024.csv` w repo)
 
-6. **Badania aktowe** — RPD wystąpiła do Instytutu Wymiaru Sprawiedliwości o przeprowadzenie badań aktowych dotyczących umieszczania dzieci w pieczy w sytuacji rozstania rodziców
+```python
+# name=plot_trends.py
+# Simple example: load CSV and plot counts & shares over time
+import pandas as pd
+import matplotlib.pyplot as plt
 
-#### Ocena stanowiska w kontekście analizy:
+df = pd.read_csv("custody_reconstructed_2018_2024.csv")  # CSV with columns: Rok, Matce, Ojcu, Razem_matce_i_ojcu, ...
+df = df.sort_values("Rok")
+df['Razem'] = df[['Matce','Ojcu','Razem_matce_i_ojcu','Oddzielnie_matce_i_ojcu','Rodzinie_zastepczej','Placowce_wychowawczej','Inne']].sum(axis=1)
 
-| Aspekt | Pawlak (2019–2020) | Horna-Cieślak (2024) |
-|--------|-------------------|---------------------|
-| **Stosunek do inicjatywy senackiej** | Zablokował na rzecz „szerszego" projektu rządowego | Wskazuje na Komisję Kodyfikacyjną jako właściwe forum — faktycznie również prosi o wstrzymanie inicjatywy senackiej |
-| **Uzasadnienie** | „Projekt rządowy ma realną szansę przejść ścieżkę legislacyjną" | „Inicjatywa senacka mogłaby stanowić istotne utrudnienie dla prac Komisji Kodyfikacyjnej" |
-| **Efekt netto** | Opóźnienie legislacji o lata | Dalsze opóźnienie — Komisja Kodyfikacyjna nie ma wyznaczonego terminu zakończenia prac |
-| **Różnica jakościowa** | Pawlak promował swój wkład w projekt rządowy (zarzut o ambicje) | Horna-Cieślak odwołuje się do procesu eksperckiego i badań |
-
-#### Powtarzający się wzorzec:
-
-> Historia legislacyjna dotycząca pieczy naprzemiennej w Polsce ujawnia powtarzający się schemat: inicjatywy parlamentarne (często ponadpartyjne) są blokowane lub opóźniane przez instytucję RPD, która za każdym razem wskazuje na „szersze" lub „kompleksowe" prace prowadzone gdzie indziej. Projekty rządowe jednak nie powstają lub nie przechodzą ścieżki legislacyjnej. W efekcie od 2019 r. do połowy 2025 r. nie uchwalono żadnej regulacji wzmacniającej pieczę naprzemienną ani egzekwowanie kontaktów — mimo istnienia gotowych projektów i poparcia ponadpartyjnego.
-
-### Systemowe torpedowanie legislacji a ochrona rodziny w Konstytucji RP
-
-Opisany powtarzający się wzorzec — gdzie organ państwowy powołany do ochrony praw dziecka faktycznie blokuje inicjatywy legislacyjne mające na celu rozwiązanie patologicznej sytuacji — wskazuje na celowe działania torpedujące wprowadzenie rozstrzygnięć dotyczących podstawowej jednostki społecznej chronionej w konstrukcji ustrojowej Rzeczypospolitej Polskiej.
-
-Rzecznik Praw Dziecka, jako teoretycznie organ stojący na straży praw dziecka, w praktyce stoi na straży obecnej **patologicznej i nierozwiązywalnej przez sądy rodzinne sytuacji**, w której rodzic posiadający prawomocne orzeczenie sądu nie może wyegzekwować kontaktu ze swoim dzieckiem i traci z nim więź.
-
-#### Argument „ultima ratio" prawa karnego
-
-W debacie publicznej osoby przeciwne penalizacji alienacji rodzicielskiej powołują się na zasadę *ultima ratio* prawa karnego — czyli przekonanie, że prawo karne powinno być ostatecznym środkiem, stosowanym dopiero gdy inne gałęzie prawa zawiodą.
-
-**Problem polega na tym, że inne gałęzie prawa faktycznie zawiodły.** Sądy rodzinne nie dysponują skutecznymi narzędziami egzekucji kontaktów. Grzywny nakładane na rodzica alienującego są symboliczne i nieskuteczne. Kuratorzy nie mają realnych uprawnień. System od lat nie działa — i właśnie dlatego zasada *ultima ratio* **przemawia za**, a nie przeciw, penalizacji.
-
-#### Współczesny jasyr
-
-Celowe i systematyczne odizolowanie dziecka od jednego z rodziców — wbrew orzeczeniu sądu — stanowi formę przemocy psychicznej zarówno wobec dziecka, jak i alienowanego rodzica. Jest to współczesna wersja jasyru, w której:
-
-- **Niewolę osmańską** zastąpiono nakazem opuszczenia własnego mieszkania i zakazem zbliżania się
-- **Kontakt z porwanym** (dzieckiem) jest karany — próby kontaktu telefonicznego czy osobistego są wykorzystywane jako „dowody nękania"
-- **Ofiara staje się sprawcą** — rodzic próbujący utrzymać kontakt z własnym dzieckiem ryzykuje zarzut z art. 190a KK (uporczywe nękanie/stalking), za który w aktualnym stanie prawnym grozi do 8 lat pozbawienia wolności
-
-#### Problem konstytucyjności art. 190a KK w kontekście rodzinnym
-
-Stosowanie przepisów o stalkingu wobec rodzica realizującego (lub próbującego realizować) orzeczenie sądu o kontaktach budzi poważne wątpliwości konstytucyjne:
-
-1. **Art. 18 Konstytucji RP** — Małżeństwo jako związek kobiety i mężczyzny, rodzina, macierzyństwo i rodzicielstwo znajdują się pod ochroną i opieką Rzeczypospolitej Polskiej
-2. **Art. 48 Konstytucji RP** — Rodzice mają prawo do wychowania dzieci zgodnie z własnymi przekonaniami
-3. **Art. 72 ust. 1 Konstytucji RP** — Rzeczpospolita Polska zapewnia ochronę praw dziecka (w tym prawo do kontaktu z obojgiem rodziców)
-4. **Art. 31 ust. 3 Konstytucji RP** — Ograniczenia w zakresie korzystania z konstytucyjnych wolności i praw mogą być ustanawiane tylko wtedy, gdy są konieczne w demokratycznym państwie
-
-Kryminalizacja prób kontaktu rodzica z dzieckiem — w sytuacji gdy istnieje orzeczenie sądu przyznające prawo do tego kontaktu — stanowi potencjalnie niekonstytucyjne ograniczenie prawa do życia rodzinnego i prawa do wychowania dziecka.
-
-#### Mechanizm pułapki prawnej
-
-```
-ORZECZENIE SĄDU: Rodzic A ma prawo do kontaktu z dzieckiem
-         ↓
-RODZIC B (alienator): Uniemożliwia kontakt, składa zawiadomienie o nękaniu
-         ↓
-NAKAZ: Rodzic A dostaje zakaz zbliżania się (do alienatora, a faktycznie do dziecka)
-         ↓
-PRÓBA KONTAKTU: Rodzic A próbuje realizować orzeczenie o kontaktach
-         ↓
-ZARZUT: Art. 190a KK — „uporczywe nękanie" — do 8 lat pozbawienia wolności
-         ↓
-EFEKT: Rodzic posiadający orzeczenie sądu staje się przestępcą za próbę jego realizacji
+plt.figure(figsize=(9,5))
+plt.plot(df['Rok'], df['Razem_matce_i_ojcu'], marker='o', label='Razem (władza)')
+plt.plot(df['Rok'], df['Matce'], marker='o', label='Matce (wyłączna)')
+plt.plot(df['Rok'], df['Ojcu'], marker='o', label='Ojcu (wyłączna)')
+plt.ylabel('Liczba orzeczeń')
+plt.xlabel('Rok')
+plt.title('Orzeczenia o wykonywaniu władzy rodzicielskiej 2018–2024 (rekonstrukcja)')
+plt.grid(alpha=0.3)
+plt.legend()
+plt.tight_layout()
+plt.savefig('figures/custody_trends.png', dpi=150)
 ```
 
-Ten mechanizm jest systemową patologią, w której **dwa orzeczenia tego samego wymiaru sprawiedliwości wzajemnie się wykluczają** — orzeczenie o kontaktach nakazuje kontakt, a zakaz zbliżania go zabrania. Rodzic zostaje uwięziony w sprzeczności prawnej, z której nie ma legalnego wyjścia.
+---
+
+## 10. Źródła (do uzupełnienia permalinks i plików źródłowych)
+
+- Fernández‑Kranz, D., Nollenberger, N., & Roff, J. (2021). Bargaining Power in the Household: The Effect of Shared Custody on Intimate Partner Violence. Journal of Labor Economics.
+- Dee, T.S. (2003). Until Death Do You Part: The Effects of Unilateral Divorce on Spousal Homicides. IZA Discussion Paper.
+- Bauserman, R. (2012). A Meta-analysis of Parental Satisfaction, Adjustment, and Conflict in Joint Custody and Sole Custody Following Divorce. Journal of Divorce & Remarriage.
+- Zalecenie Rady (UE) 2024/1238 z dnia 14 maja 2024 r. (ELI: http://data.europa.eu/eli/reco/2024/1238/oj)
+- Stenogram z 15. posiedzenia Senatu RP X kadencji, 11 września 2020 r. (punkt 8).
+- Pismo RPD Moniki Horna‑Cieślak, sygn. PI79-01/7.
+- Konstytucja RP, art. 18, 48, 71, 72.
+- Art. 190a Kodeksu karnego (uporczywe nękanie).
+
+(Uzupełnij o bezpośrednie URL-e do konkretnych tabel GUS i plików MS; jeśli chcesz, mogę pomóc je pobrać i dodać do repo.)
 
 ---
 
-## 9. Źródła
+## 11. Krótkie podsumowanie i następne kroki — checklist dla Ciebie
 
-- Fernández-Kranz, D., Nollenberger, N., & Roff, J. (2021). *Bargaining Power in the Household: The Effect of Shared Custody on Intimate Partner Violence*. Journal of Labor Economics.
-- Dane tabelaryczne: rekonstrukcja na podstawie danych GUS i Ministerstwa Sprawiedliwości (2018–2024).
-- Dee, T.S. (2003). *Until Death Do You Part: The Effects of Unilateral Divorce on Spousal Homicides*. IZA Discussion Paper No. 13810.
-- Bauserman, R. (2012). *A Meta-analysis of Parental Satisfaction, Adjustment, and Conflict in Joint Custody and Sole Custody Following Divorce*. Journal of Divorce & Remarriage.
-- Zalecenie Rady (UE) 2024/1238 z dnia 14 maja 2024 r. w sprawie zintegrowanych systemów ochrony dziecka (Dz.U. L z 14.5.2024). ELI: http://data.europa.eu/eli/reco/2024/1238/oj
-- Stenogram z 15. posiedzenia Senatu RP X kadencji, 11 września 2020 r., punkt 8. porządku obrad. Wypowiedź senatora Aleksandra Pocieja.
-- Pismo RPD Moniki Horny-Cieślak, sygnatura PI79-01/7, w sprawie inicjatywy ustawodawczej Senatu dot. pieczy naprzemiennej.
-- Biuro Rzecznika Praw Dziecka, „Ochrona dzieci w obliczu sporów rodzicielskich" — relacja z posiedzenia Komisji ds. Dzieci i Młodzieży oraz Komisji Sprawiedliwości i Praw Człowieka, 19 grudnia 2024 r. https://brpd.gov.pl/2024/12/19/ochrona-dzieci-w-obliczu-sporow-rodzicielskich
-- Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz.U. 1997 nr 78 poz. 483), art. 18, 48, 71, 72.
-- Art. 190a Kodeksu karnego (Dz.U. 1997 nr 88 poz. 553 ze zm.) — uporczywe nękanie (stalking).
+1. Zweryfikuj źródłowe pliki GUS/MS i popraw/zaakceptuj liczby w tabeli (szczególnie 2023→2024).
+2. Dodaj surowe CSV(y) oraz notebook do repo (sekcja Appendix).
+3. Jeśli chcesz, udostępnij dostęp do plików GUS/MS (linki) lub dodaj je tutaj — mogę wtedy zaktualizować tabelę i wygenerować wykresy.
+4. Po weryfikacji: zaprojektuję analizę empiryczną (kod + opis identyfikacji, testy, wykresy), mogę też utworzyć PR z tą zaktualizowaną wersją.
+
+---
