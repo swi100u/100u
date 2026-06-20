@@ -175,10 +175,72 @@ Instrument Wsparcia Technicznego wspiera **wprowadzanie domów dzieci zgodnie z 
 
 ---
 
-## 8. Źródła
+## 8. Historia legislacyjna: blokada senackiego projektu i obecne stanowisko RPD
+
+### Kontekst: wypowiedź senatora Aleksandra Pocieja (15. posiedzenie Senatu, 11 września 2020)
+
+Podczas rozpatrywania Informacji o działalności RPD za rok 2019 senator Aleksander Pociej (KO) publicznie rozliczył Rzecznika Praw Dziecka Mikołaja Pawlaka z zablokowania ponadpartyjnego projektu legislacyjnego dotyczącego egzekwowania kontaktów z dzieckiem po rozwodzie (pieczy naprzemiennej).
+
+#### Przebieg sprawy:
+
+1. **Senat IX kadencji** wypracował ponadpartyjny projekt (PiS + PO) na podstawie petycji — umożliwiający lepsze egzekwowanie prawa rodzica do kontaktu z dzieckiem, z którym nie zamieszkuje
+2. **Projekt był po pracach w Komisji Petycji** i w trakcie prac Komisji Ustawodawczej
+3. **Mikołaj Pawlak przyszedł na posiedzenie komisji** i zaapelował o wstrzymanie prac na rzecz „szerszego" projektu rządowego z Ministerstwa Sprawiedliwości, nad którym sam współpracował
+4. **Marszałek Karczewski zablokował senacki projekt** po deklaracji Pawlaka, że rządowy projekt „ma realną szansę być przeprowadzony przez proces legislacyjny"
+5. **Rządowy projekt nigdy nie został uchwalony** — Senat po roku wrócił do procedowania tego samego projektu od nowa
+
+#### Kluczowy cytat senatora Pocieja:
+
+> „I gdzie jest ten projekt? Co pan zrobił przez tę kadencję, żeby ten projekt się ukazał? **Po co pan to zablokował? Dla własnych ambicji, bo chciał pan, żeby projekt, nad którym pan pracował, jak pan twierdził, był tym, dzięki któremu będzie pan mógł wypiąć pierś do orderu?** Gdzie jest ten projekt? Pytam. Dzisiaj znowu pracujemy nad tym samym projektem."
+
+#### Dodatkowy zarzut — zmiana stanowiska:
+
+Pociej wskazał, że Pawlak rok wcześniej na posiedzeniu komisji nazwał senacki projekt „dobrym, tylko węższym", a następnie w piśmie do przewodniczącego Komisji Ustawodawczej sen. Krzysztofa Kwiatkowskiego negatywnie zaopiniował ten sam projekt, twierdząc, że „nie jest do przyjęcia".
+
+**Źródło:** Stenogram z 15. posiedzenia Senatu RP X kadencji, 11 września 2020 r., punkt 8. porządku obrad (Informacja o działalności Rzecznika Praw Dziecka za rok 2019).
+
+---
+
+### Obecne stanowisko RPD Moniki Horny-Cieślak (od grudnia 2023)
+
+Obecna Rzeczniczka Praw Dziecka, Monika Horna-Cieślak, zajmuje się kwestią pieczy naprzemiennej i sporów rodzicielskich w kontekście systemowym. Z jej pisma (sygnatura PI79-01/7) oraz z posiedzenia połączonych Komisji ds. Dzieci i Młodzieży oraz Komisji Sprawiedliwości i Praw Człowieka (19 grudnia 2024 r.) wynika następujące stanowisko:
+
+#### Kluczowe elementy stanowiska RPD Horny-Cieślak:
+
+1. **Komisja Kodyfikacyjna Prawa Rodzinnego** — RPD informuje, że w Ministerstwie Sprawiedliwości działa Komisja Kodyfikacyjna Prawa Rodzinnego (powołana na podstawie art. 11 ustawy o Rzeczniku Praw Dziecka, t.j. Dz.U. 292 z 2023), której celem jest kompleksowe zbadanie i analiza wskazanej problematyki. W skład Komisji wchodzą wybitni eksperci z różnych dziedzin, którzy podejmują szczegółowe badania oraz prowadzą merytoryczne debaty i konsultacje.
+
+2. **Działanie na zaawansowanym poziomie** — W ocenie Rzeczniczki Praw Dziecka podejmowanie przez Senat przedmiotowej inicjatywy ustawodawczej, także w zakresie kompilowania z wysokim stopniem zaawansowania prac Komisji Kodyfikacyjnej, mogłoby stanowić istotne utrudnienie dla metodologii pracy Komisji i komplikowałoby realizację wyznaczonych celów, które mają wymiar systemowy.
+
+3. **Perspektywa dziecka jako priorytet** — RPD podkreśla, że „kluczowa musi być perspektywa młodych osób" i że „dzieci są najbardziej pokrzywdzone w sytuacji konfliktu między dorosłymi"
+
+4. **Wysłuchanie dziecka** — RPD krytykuje sądy, które nie stosują wysłuchania dzieci i nie uzasadniają, dlaczego odstąpiły od tej czynności
+
+5. **Krytyka przymusowych odbiorów dzieci** — RPD „sprzeciwia się zdecydowanie odbiorom z miejsc, które powinny być bezpieczne dla dzieci" (przedszkola, szkoły)
+
+6. **Badania aktowe** — RPD wystąpiła do Instytutu Wymiaru Sprawiedliwości o przeprowadzenie badań aktowych dotyczących umieszczania dzieci w pieczy w sytuacji rozstania rodziców
+
+#### Ocena stanowiska w kontekście analizy:
+
+| Aspekt | Pawlak (2019–2020) | Horna-Cieślak (2024) |
+|--------|-------------------|---------------------|
+| **Stosunek do inicjatywy senackiej** | Zablokował na rzecz „szerszego" projektu rządowego | Wskazuje na Komisję Kodyfikacyjną jako właściwe forum — faktycznie również prosi o wstrzymanie inicjatywy senackiej |
+| **Uzasadnienie** | „Projekt rządowy ma realną szansę przejść ścieżkę legislacyjną" | „Inicjatywa senacka mogłaby stanowić istotne utrudnienie dla prac Komisji Kodyfikacyjnej" |
+| **Efekt netto** | Opóźnienie legislacji o lata | Dalsze opóźnienie — Komisja Kodyfikacyjna nie ma wyznaczonego terminu zakończenia prac |
+| **Różnica jakościowa** | Pawlak promował swój wkład w projekt rządowy (zarzut o ambicje) | Horna-Cieślak odwołuje się do procesu eksperckiego i badań |
+
+#### Powtarzający się wzorzec:
+
+> Historia legislacyjna dotycząca pieczy naprzemiennej w Polsce ujawnia powtarzający się schemat: inicjatywy parlamentarne (często ponadpartyjne) są blokowane lub opóźniane przez instytucję RPD, która za każdym razem wskazuje na „szersze" lub „kompleksowe" prace prowadzone gdzie indziej. Projekty rządowe jednak nie powstają lub nie przechodzą ścieżki legislacyjnej. W efekcie od 2019 r. do połowy 2025 r. nie uchwalono żadnej regulacji wzmacniającej pieczę naprzemienną ani egzekwowanie kontaktów — mimo istnienia gotowych projektów i poparcia ponadpartyjnego.
+
+---
+
+## 9. Źródła
 
 - Fernández-Kranz, D., Nollenberger, N., & Roff, J. (2021). *Bargaining Power in the Household: The Effect of Shared Custody on Intimate Partner Violence*. Journal of Labor Economics.
 - Dane tabelaryczne: rekonstrukcja na podstawie danych GUS i Ministerstwa Sprawiedliwości (2018–2024).
 - Dee, T.S. (2003). *Until Death Do You Part: The Effects of Unilateral Divorce on Spousal Homicides*. IZA Discussion Paper No. 13810.
 - Bauserman, R. (2012). *A Meta-analysis of Parental Satisfaction, Adjustment, and Conflict in Joint Custody and Sole Custody Following Divorce*. Journal of Divorce & Remarriage.
 - Zalecenie Rady (UE) 2024/1238 z dnia 14 maja 2024 r. w sprawie zintegrowanych systemów ochrony dziecka (Dz.U. L z 14.5.2024). ELI: http://data.europa.eu/eli/reco/2024/1238/oj
+- Stenogram z 15. posiedzenia Senatu RP X kadencji, 11 września 2020 r., punkt 8. porządku obrad. Wypowiedź senatora Aleksandra Pocieja.
+- Pismo RPD Moniki Horny-Cieślak, sygnatura PI79-01/7, w sprawie inicjatywy ustawodawczej Senatu dot. pieczy naprzemiennej.
+- Biuro Rzecznika Praw Dziecka, „Ochrona dzieci w obliczu sporów rodzicielskich" — relacja z posiedzenia Komisji ds. Dzieci i Młodzieży oraz Komisji Sprawiedliwości i Praw Człowieka, 19 grudnia 2024 r. https://brpd.gov.pl/2024/12/19/ochrona-dzieci-w-obliczu-sporow-rodzicielskich
