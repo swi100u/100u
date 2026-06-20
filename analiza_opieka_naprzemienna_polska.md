@@ -110,9 +110,75 @@ Bez tego mamy korelację trendu (więcej wspólnej władzy + możliwy spadek prz
 
 ---
 
-## 7. Źródła
+## 7. Zalecenie Rady (UE) 2024/1238 a polska debata o opiece naprzemiennej
+
+### Kontekst dokumentu
+
+Zalecenie Rady (UE) 2024/1238 z 14 maja 2024 r. dotyczy zintegrowanych systemów ochrony dziecka. Dokument zobowiązuje państwa członkowskie do budowania kompleksowych systemów chroniących dzieci przed wszelkimi formami przemocy — w tym:
+- Wykorzystywanie seksualne (pkt 14)
+- Cyberszykanowanie (pkt 15)
+- Wymiar sprawiedliwości przyjazny dziecku (pkt 16)
+- Ochrona dzieci migrujących (pkt 17–18)
+- Finansowanie systemów ochrony (pkt 19–22)
+
+**Kluczowa zasada:** Najlepszy interes dziecka jako kwestia nadrzędna (pkt 2–3).
+
+### Relewantne fragmenty dla argumentacji o opiece naprzemiennej
+
+#### A. Zasada najlepszego interesu dziecka (pkt 2–3)
+
+> „Państwa członkowskie powinny zawsze traktować najlepszy interes dziecka jako kwestię nadrzędną, zapewniając uznanie, poszanowanie i ochronę dzieci jako podmiotów praw."
+
+**Znaczenie:** To jest standard unijny, który Polska musi wdrożyć. Jeżeli badania pokazują, że opieka naprzemienna koreluje ze spadkiem przemocy partnerskiej (a przemoc partnerska szkodzi dzieciom), to odmowa systemowego rozważenia opieki naprzemiennej może być sprzeczna z zasadą najlepszego interesu dziecka w rozumieniu prawa UE.
+
+#### B. Wymiar sprawiedliwości przyjazny dziecku (pkt 16)
+
+Zalecenie podkreśla:
+- **Rozporządzenie Bruksela II ter** (2019/1111) — dotyczy transgranicznych spraw dotyczących odpowiedzialności rodzicielskiej
+- **Zintegrowane podejście wielopodmiotowe** — nie tylko sąd, ale też służby społeczne, psychologowie
+- **Indywidualna ocena sytuacji dziecka**
+
+**Znaczenie dla Polski:** Polski system opiera się na orzeczeniu sądowym bez obowiązkowej oceny interdyscyplinarnej przed wydaniem decyzji o opiece. Zalecenie UE sugeruje, że Polska powinna przejść do modelu, w którym:
+1. Decyzja o formie opieki jest oparta na indywidualnej ocenie
+2. Uwzględnia się głos dziecka
+3. Funkcjonuje system monitorowania po orzeczeniu
+
+#### C. Ochrona przed przemocą domową — komponent Daphne (pkt 20)
+
+> „W ramach komponentu Daphne [...] Komisja zapewnia specjalne wsparcie finansowe na zapobieganie i zwalczanie przemocy wobec dzieci, przemocy ze względu na płeć wobec dziewcząt i przemocy domowej."
+
+**Znaczenie:** Istnieje unijne finansowanie na badania, które mogłyby zweryfikować hipotezę — czy wzrost opieki współdzielonej w Polsce koreluje ze spadkiem przemocy domowej. Polska może (i powinna) aplikować o środki na takie badania.
+
+#### D. Model Barnahus — domy dziecka (pkt 21)
+
+Instrument Wsparcia Technicznego wspiera **wprowadzanie domów dzieci zgodnie z modelem Barnahus** — nordycki model zintegrowanej ochrony dziecka, w którym decyzje dotyczące dziecka (w tym forma opieki po rozstaniu rodziców) podejmowane są w jednym miejscu przez zespół interdyscyplinarny.
+
+### Jak Zalecenie wzmacnia argumentację
+
+| Element z Zalecenia UE | Implikacja dla debaty o opiece naprzemiennej w Polsce |
+|------------------------|------------------------------------------------------|
+| Najlepszy interes dziecka = nadrzędna zasada | Systemowe wykluczanie opieki naprzemiennej wymaga uzasadnienia dowodowego |
+| Zintegrowane systemy ochrony | Decyzja o formie opieki powinna wynikać z oceny interdyscyplinarnej, nie z domyślnego przyznania matce |
+| Komponent Daphne | UE finansuje badania nad związkiem form opieki z przemocą — Polska może to wykorzystać |
+| Barnahus | Model interdyscyplinarny, w którym opieka naprzemienna jest normalną opcją |
+| Rozporządzenie Bruksela II ter | UE uznaje, że sprawy o odpowiedzialność rodzicielską wymagają współpracy transgranicznej — co zakłada, że oboje rodziców jest istotnych |
+
+### Argument prawny
+
+> Zalecenie Rady (UE) 2024/1238 zobowiązuje państwa członkowskie do budowania zintegrowanych systemów ochrony dziecka opartych na zasadzie najlepszego interesu dziecka. Jednocześnie badanie Fernández-Kranz et al. (2021) wskazuje, że opieka naprzemienna może zmniejszać przemoc partnerską — a przemoc partnerska jest jednym z głównych zagrożeń dla dzieci, przed którymi Zalecenie nakazuje chronić. Polski system, w którym 67,6% orzeczeń to wspólna władza rodzicielska, ale fizyczna opieka naprzemienna nie jest systemowo wspierana ani monitorowana, może nie spełniać unijnego standardu zintegrowanej ochrony dziecka.
+
+### Ograniczenia tego argumentu
+
+1. **Zalecenie nie jest prawnie wiążące** — to „soft law", nie dyrektywa ani rozporządzenie
+2. **Dokument nie wspomina wprost opieki naprzemiennej** — mówi o ochronie przed przemocą, nie o modelu custody
+3. **Polska ma margines implementacyjny** — może argumentować, że realizuje zasadę najlepszego interesu inaczej
+
+---
+
+## 8. Źródła
 
 - Fernández-Kranz, D., Nollenberger, N., & Roff, J. (2021). *Bargaining Power in the Household: The Effect of Shared Custody on Intimate Partner Violence*. Journal of Labor Economics.
 - Dane tabelaryczne: rekonstrukcja na podstawie danych GUS i Ministerstwa Sprawiedliwości (2018–2024).
 - Dee, T.S. (2003). *Until Death Do You Part: The Effects of Unilateral Divorce on Spousal Homicides*. IZA Discussion Paper No. 13810.
 - Bauserman, R. (2012). *A Meta-analysis of Parental Satisfaction, Adjustment, and Conflict in Joint Custody and Sole Custody Following Divorce*. Journal of Divorce & Remarriage.
+- Zalecenie Rady (UE) 2024/1238 z dnia 14 maja 2024 r. w sprawie zintegrowanych systemów ochrony dziecka (Dz.U. L z 14.5.2024). ELI: http://data.europa.eu/eli/reco/2024/1238/oj
