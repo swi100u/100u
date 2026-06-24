@@ -313,6 +313,16 @@ W świetle powyższego wnoszę jak na wstępie.
 
 ---
 
+### IX. Zastrzeżenie dotyczące niedopuszczalności odmowy wszczęcia postępowania
+
+Na wypadek gdyby Kolegium rozważało odmowę wszczęcia niniejszego postępowania nieważnościowego na podstawie art. 61a § 1 KPA, wskazuję na wyrok WSA w Gliwicach z dnia 29 maja 2026 r. (sygn. **II SA/Gl 258/26**), w którym ten sam Sąd (właściwy dla SKO w Katowicach) uchylił postanowienia SKO w Katowicach o odmowie wszczęcia postępowania nieważnościowego, stwierdzając jednoznacznie że:
+
+> *„Podstawą do odmowy wszczęcia postępowania nie mogą być natomiast okoliczności dotyczące merytorycznej zawartości żądania, tj. nie można uzasadniać odmowy wszczęcia postępowania brakiem podstaw prawnych do stwierdzenia nieważności decyzji."*
+
+Powyższe oznacza, że SKO jest zobowiązane **wszcząć postępowanie i rozpoznać wniosek merytorycznie** – nawet jeśli prima facie ocenia, że przesłanki nieważności nie zachodzą. Ocena merytoryczna może nastąpić dopiero **po wszczęciu postępowania**, w formie decyzji kończącej to postępowanie, a nie w formie postanowienia o odmowie wszczęcia.
+
+---
+
 **Załączniki:**
 1. Kopia decyzji Prezydenta Miasta Ruda Śląska z dnia [DATA], nr [NUMER];
 2. Kopia decyzji/postanowienia SKO z dnia [DATA], nr [NUMER] (jeśli wydano);
@@ -320,8 +330,9 @@ W świetle powyższego wnoszę jak na wstępie.
 4. Wydruk wyroku WSA w Opolu z 3 października 2024 r., sygn. I SA/Op 501/24 (z CBOSA);
 5. Wydruk wyroku WSA w Gdańsku z 18 grudnia 2025 r., sygn. III SA/Gd 509/25 (z CBOSA);
 6. Wydruk wyroku WSA w Olsztynie z 10 kwietnia 2025 r., sygn. II SA/Ol 86/25 (z CBOSA);
-7. [Ewentualnie: dokumentacja medyczna, zaświadczenia lekarskie od lekarza pierwszego kontaktu/psychiatry potwierdzające brak przeciwwskazań];
-8. [Inne dokumenty].
+7. Wydruk wyroku WSA w Gliwicach z 29 maja 2026 r., sygn. II SA/Gl 258/26 (z CBOSA);
+8. [Ewentualnie: dokumentacja medyczna, zaświadczenia lekarskie od lekarza pierwszego kontaktu/psychiatry potwierdzające brak przeciwwskazań];
+9. [Inne dokumenty].
 
 ---
 
