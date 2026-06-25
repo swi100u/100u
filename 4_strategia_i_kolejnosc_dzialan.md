@@ -31,6 +31,7 @@
 | **Wyrok WSA Opole** | I SA/Op 501/24 z 3.10.2024 | Organ musi prowadzić postępowanie dowodowe, nie może opierać się wyłącznie na informacji innego organu |
 | **Wyrok WSA Gdańsk** | III SA/Gd 509/25 z 18.12.2025 | **BEZPOŚREDNI PRECEDENS** – uchylenie decyzji o skierowaniu na badania na wniosek prokuratury. Organ musi SAM ustalić zastrzeżenia, nie może polegać wyłącznie na wniosku prokuratora |
 | **Wyrok WSA Olsztyn** | II SA/Ol 86/25 z 10.04.2025 | Organ musi rozważyć dowody przeciwne, skonfrontować rozbieżności, uzupełnić postępowanie. Lakoniczna informacja bez wyjaśnienia podstaw – niewystarczająca |
+| **Wyrok WSA Gliwice** | II SA/Gl 258/26 z 29.05.2026 | **TEN SAM SĄD I SKO** – odmowa wszczęcia postępowania nieważnościowego jest niedopuszczalna z przyczyn merytorycznych. SKO musi rozpoznać wniosek merytorycznie |
 | **Wyrok NSA** | II GSK 1505/22 z 5.09.2023 | Potwierdzenie linii po TK K 4/21 |
 
 ---

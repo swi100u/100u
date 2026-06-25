@@ -50,6 +50,8 @@ Wnoszę o:
 
 **4.** Wstrzymanie wykonania zaskarżonej decyzji oraz decyzji organu I instancji na podstawie **art. 61 § 3 P.p.s.a.** do czasu prawomocnego zakończenia postępowania sądowoadministracyjnego.
 
+**5.** Rozważenie przez Sąd wystąpienia z pytaniem prejudycjalnym do Trybunału Sprawiedliwości Unii Europejskiej (art. 267 TFUE) w przedmiocie zgodności art. 63 § 1 KPA – w wykładni odmawiającej skuteczności podaniu z podpisem elektronicznym przesłanemu emailem – z art. 25 ust. 1 rozporządzenia eIDAS (UE nr 910/2014).
+
 ---
 
 ## II. ZARZUTY
@@ -95,6 +97,10 @@ Zaskarżonym decyzjom zarzucam:
 **11. Art. 9 KPA** – przez niedopełnienie obowiązku pouczenia skarżącego o prawidłowej formie wniesienia odwołania;
 
 **12. Art. 78 Konstytucji RP** – przez pozbawienie skarżącego konstytucyjnego prawa do zaskarżenia orzeczenia wydanego w I instancji.
+
+### C) Naruszenie prawa Unii Europejskiej:
+
+**13. Art. 25 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 (eIDAS)** – przez odmowę uznania skuteczności podania (odwołania) opatrzonego ważnym podpisem elektronicznym (podpisem zaufanym) wyłącznie z tego powodu, że zostało przesłane pocztą elektroniczną, a nie przez elektroniczną skrzynkę podawczą, co stanowi naruszenie zakazu dyskryminacji podpisu elektronicznego ze względu na jego formę.
 
 ---
 
@@ -213,6 +219,53 @@ Skutkiem zaniechania SKO jest to, że sprawa skarżącego została merytorycznie
 #### C) Obowiązek informacyjny (art. 9 KPA)
 
 Organ jest zobowiązany do należytego informowania stron o okolicznościach prawnych. Jeśli skarżący wniósł odwołanie w wadliwej formie, organ powinien go o tym **poinformować i pouczyć** o prawidłowym sposobie złożenia, a nie wykorzystywać błąd formalny strony do pozbawienia jej ochrony prawnej.
+
+#### D) Postanowienie organu I instancji o odmowie wszczęcia postępowania odwoławczego – wadliwość pouczenia
+
+Wskazuję, że postanowienie Prezydenta Miasta Ruda Śląska (z upoważnienia – Naczelnik Wydziału Komunikacji Marcin Opielka, opracowała inspektor Bożena Wasążnik) zawierało pouczenie następującej treści:
+
+> *„Na niniejsze postanowienie stronie nie przysługuje zażalenie. Zgodnie z art. 142 ustawy z dnia 14 czerwca 1960 Kodeks postępowania administracyjnego (t.j. Dz. U. z 2025 r. poz. 1691) powyższe postanowienie można zaskarżyć jedynie w odwołaniu od decyzji kończącej postępowanie w sprawie."*
+
+Pouczenie to jest **wadliwe i wprowadzające w błąd**, ponieważ:
+
+1. Art. 142 KPA dotyczy postanowień wydawanych **w toku postępowania** (postanowień niekończących postępowania). Tymczasem odmowa rozpatrzenia odwołania z uwagi na formę jest rozstrzygnięciem **kończącym postępowanie** odwoławcze – a zatem na takie rozstrzygnięcie przysługuje albo zażalenie, albo skarga do sądu administracyjnego;
+
+2. Jeśli organ potraktował odwołanie jako niedopuszczalne i wydał postanowienie o pozostawieniu go bez rozpoznania (art. 64 § 2 KPA), to na takie postanowienie przysługuje **skarga do WSA** (art. 3 § 2 pkt 2 P.p.s.a. – postanowienie kończące postępowanie);
+
+3. Powoływanie się na art. 142 KPA w kontekście rozstrzygnięcia o niedopuszczalności odwołania jest **błędne merytorycznie** – art. 142 odnosi się do postanowień incydentalnych wydawanych w toku postępowania (np. o przeprowadzeniu dowodu, o zawieszeniu postępowania), a nie do rozstrzygnięć o dopuszczalności środka zaskarżenia;
+
+4. Wadliwe pouczenie **nie może działać na niekorzyść strony** – zgodnie z art. 112 KPA, błędne pouczenie nie może szkodzić stronie, która zastosowała się do pouczenia.
+
+Powyższe potwierdza prawomocne postanowienie WSA w Gliwicach z dnia 7 stycznia 2025 r. (sygn. **III SA/Gl 788/24**), w którym Sąd – odrzucając skargę na pismo SKO w Katowicach – wprost wskazał prawidłową drogę zaskarżenia:
+
+> *„Jeśli natomiast skarżący nie zgadzał się z podjętym przez organ odwoławczy rozstrzygnięciem w przedmiocie dopuszczalności wniesionego odwołania, to winien wnieść w tym zakresie **skargę do wojewódzkiego sądu administracyjnego**."*
+
+Niniejsza skarga jest zatem wniesiona prawidłowo, zgodnie ze wskazówką WSA w Gliwicach.
+
+#### E) Argument prawa UE – niezgodność art. 63 § 1 KPA z rozporządzeniem eIDAS
+
+Niezależnie od powyższego, podnoszę dodatkowy argument dotyczący niezgodności wykładni art. 63 § 1 KPA przyjętej przez SKO z prawem Unii Europejskiej.
+
+**Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (rozporządzenie eIDAS)** stanowi:
+
+Art. 25 ust. 1:
+> *„Podpisowi elektronicznemu nie można odmówić skutku prawnego ani dopuszczalności jako dowodu w postępowaniu sądowym wyłącznie z tego powodu, że podpis ten ma postać elektroniczną lub że nie spełnia wymogów dla kwalifikowanych podpisów elektronicznych."*
+
+Art. 25 ust. 2:
+> *„Kwalifikowany podpis elektroniczny ma skutek prawny równoważny podpisowi własnoręcznemu."*
+
+Odwołanie skarżącego zostało opatrzone **podpisem zaufanym** – podpisem elektronicznym, którego autentyczność i integralność są zapewniane przy użyciu pieczęci elektronicznej ministra właściwego do spraw informatyzacji (art. 3 pkt 14a ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne).
+
+Wykładnia art. 63 § 1 KPA przyjęta przez SKO – odmawiająca skuteczności podaniu opatrzonemu ważnym podpisem elektronicznym wyłącznie z tego powodu, że zostało przesłane emailem (a nie przez elektroniczną skrzynkę podawczą) – budzi poważne wątpliwości w świetle art. 25 ust. 1 rozporządzenia eIDAS, który **zakazuje** odmawiania skutku prawnego podpisowi elektronicznemu wyłącznie z powodu jego formy elektronicznej.
+
+Rozporządzenie eIDAS ma **bezpośrednie zastosowanie** we wszystkich państwach członkowskich UE (art. 288 TFUE) i ma **pierwszeństwo** przed prawem krajowym (zasada pierwszeństwa prawa UE – wyrok TSUE C-6/64 Costa v. ENEL; wyrok TSUE C-106/77 Simmenthal).
+
+W związku z powyższym wnoszę o:
+1. Rozważenie przez Sąd, czy art. 63 § 1 KPA – w wykładni wymagającej korzystania wyłącznie z elektronicznej skrzynki podawczej i odmawiającej skuteczności podaniu z ważnym podpisem elektronicznym przesłanemu emailem – jest zgodny z art. 25 ust. 1 rozporządzenia eIDAS;
+2. Ewentualne **pominięcie** art. 63 § 1 KPA w zakresie niezgodnym z prawem UE (obowiązek sądu krajowego wynikający z zasady pierwszeństwa prawa UE);
+3. Ewentualne **wystąpienie z pytaniem prejudycjalnym** do Trybunału Sprawiedliwości UE na podstawie art. 267 TFUE, w przypadku wątpliwości co do wykładni art. 25 rozporządzenia eIDAS w kontekście wymogów formalnych podań w postępowaniu administracyjnym.
+
+Podkreślam, że WSA w Gliwicach w postanowieniu z dnia 7 stycznia 2025 r. (III SA/Gl 788/24) potwierdził, że pytanie prejudycjalne może być zadane przez **sąd** (nie przez SKO), a kwestia zgodności art. 63 KPA z eIDAS nie została dotychczas rozstrzygnięta przez TSUE.
 
 ---
 
