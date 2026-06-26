@@ -177,6 +177,96 @@ Tomasz Świestowski
 
 ---
 
+## IX. JASNOŚĆ STANU FAKTYCZNEGO I PRAWNEGO — OCZYWISTOŚĆ SPRAWY (pkt 4.4 artykułu)
+
+### Dwa warunki oczywistości sprawy (wg Olszanowskiego i Ostrowskiego):
+
+> 1. **Stan faktyczny** ustalony w rozstrzygnięciu organu **nie budzi wątpliwości**
+> 2. **Wykładnia przepisów** nie była przedmiotem rozbieżności w orzecznictwie NSA
+
+### Zastosowanie do sprawy USC w Rudzie Śląskiej:
+
+#### Warunek 1 — Stan faktyczny bezsporny: ✅
+
+- Osoba piastująca stanowisko zastępcy kierownika USC **przyznała się** do podrobienia podpisów obywatela na dokumentach urzędowych
+- Fakt ten nie jest kwestionowany przez żadną ze stron
+- Prezydent Miasta posiada wiedzę o tym fakcie
+- Wojewoda w piśmie NPII.4100.176.2025 nie kwestionuje stanu faktycznego — kwestionuje jedynie swój obowiązek interwencji
+
+> „Pierwszy wymóg oznacza, że stan faktyczny (...) **nie był kwestionowany** przez strony postępowania, bądź też jego treść jest podawana w wątpliwość w sposób **zupełnie nieprzekonujący, polemiczny**, bez przywołania argumentów"
+
+#### Warunek 2 — Jednolitość orzecznictwa: ✅
+
+- **NSA II GSK 2468/21 (2025)** — rękojmia to cecha osobista, zatarcie skazania nie niweczy obowiązku jej badania
+- **SN II PK 127/05 (2006)** — utrata wymogów kwalifikacyjnych = przyczyna wypowiedzenia
+- **SN II PK 102/07 (2008)** — nieposzlakowana opinia to warunek trwały
+- **NSA I OSK 2077/12 (2012)** — organ nadzoru może badać legalność obsady stanowiska
+
+Brak rozbieżności w orzecznictwie co do tego, że:
+- Wymogi z art. 6 u.p.s. muszą być spełniane przez cały okres zatrudnienia
+- Utrata nieposzlakowanej opinii uzasadnia rozwiązanie stosunku pracy
+- Organ nadzoru ma prawo (i obowiązek) badać legalność obsady
+
+---
+
+## X. KONSEKWENCJE OCZYWISTOŚCI DLA POSTĘPOWANIA PRZED NSA (pkt 5 artykułu)
+
+### A. Wyłączenie prawa do skargi kasacyjnej (de lege ferenda)
+
+Autorzy proponują mechanizm, w którym WSA mógłby wyłączyć prawo do skargi kasacyjnej w sprawach oczywiście zasadnych lub bezzasadnych. Choć to propozycja legislacyjna, **sama argumentacja wzmacnia pozycję skarżącego**:
+
+- Jeśli sprawa jest „oczywista" w sensie prawnym, to ewentualna skarga kasacyjna Wojewody byłaby **oczywiście nieusprawiedliwiona**
+- NSA mógłby rozpoznać ją w trybie uproszczonym
+- Czas postępowania ulega znacznemu skróceniu
+
+### B. Kierowanie sprawy na posiedzenie niejawne (art. 182 § 2 p.p.s.a.)
+
+> „Dostrzeżenie oczywistej zasadności skargi mogłoby skutkować możliwością skierowania sprawy na posiedzenie niejawne oraz rozstrzygnięcia jej w składzie jednoosobowym."
+
+**Zastosowanie:** Skarga na bezczynność Wojewody w tej sprawie mogłaby być rozpoznana szybciej — na posiedzeniu niejawnym, bez rozprawy — ze względu na oczywistość naruszenia.
+
+### C. Sprawy „seryjne" i ich znaczenie
+
+> „Do spraw oczywistych pod względem stanu faktycznego i prawnego zaliczają się (...) sprawy seryjne (...) które wielokrotnie trafiają do sądów administracyjnych"
+
+**Argument:** Jeśli wygrana przed WSA w Gliwicach tworzy **precedens** (art. 153 p.p.s.a.), to analogiczne sprawy dotyczące bezczynności organów nadzoru w kwestii obsady stanowisk USC stają się „seryjne" — a więc **oczywiste** w rozumieniu art. 4.4 artykułu.
+
+---
+
+## XI. STRATEGIA WYKORZYSTANIA „OCZYWISTOŚCI" W PISMACH PROCESOWYCH
+
+### W skardze do WSA należy podkreślić:
+
+1. **Bezsporność stanu faktycznego** — osoba przyznała się do czynu, nikt tego nie kwestionuje
+2. **Jednolitość orzecznictwa** — przywołać NSA II GSK 2468/21, SN II PK 127/05, SN II PK 102/07
+3. **Rażący charakter naruszenia** — „nie wymaga głębszej analizy akt sprawy"
+4. **Brak kontrargumentów Wojewody** — pismo NPII.4100.176.2025 nie wskazuje żadnej podstawy prawnej uzasadniającej odmowę nadzoru
+5. **Wniosek o stwierdzenie rażącego naruszenia prawa** (art. 149 § 1a p.p.s.a.) — otwiera drogę do odpowiedzialności majątkowej
+
+### W odpowiedzi na ewentualną skargę kasacyjną Wojewody:
+
+1. Powołać się na **oczywistą bezzasadność** podstaw kasacyjnych
+2. Wskazać, że stan faktyczny jest **bezsporny** i nie wymaga ponownej oceny
+3. Podkreślić **jednolitość orzecznictwa** — brak rozbieżności uzasadniających rozpoznanie przez NSA
+4. Wnosić o **oddalenie skargi kasacyjnej na posiedzeniu niejawnym** (art. 182 § 2 p.p.s.a.)
+
+---
+
+## XII. PODSUMOWANIE — DLACZEGO SPRAWA JEST „OCZYWISTA"
+
+| Kryterium oczywistości | Spełnione? | Uzasadnienie |
+|------------------------|------------|--------------|
+| Stan faktyczny bezsporny | ✅ | Przyznanie się do czynu, brak kwestionowania |
+| Jednolite orzecznictwo | ✅ | NSA, SN — wymogi ciągłe, rękojmia szersza niż niekaralność |
+| Rażące naruszenie prawa | ✅ | Ewidentne, nie wymaga pogłębionej analizy |
+| Brak kontrargumentów organu | ✅ | Pismo Wojewody nie wskazuje podstawy prawnej odmowy |
+| Naruszenie norm konstytucyjnych | ✅ | Art. 7 Konstytucji (legalizm), art. 171 ust. 2 (nadzór) |
+| Naruszenie EKSL | ✅ | Art. 6 ust. 2, art. 8 ust. 1-2 |
+
+**Wniosek końcowy:** Sprawa spełnia **wszystkie kryteria oczywistości** zidentyfikowane w artykule Olszanowskiego i Ostrowskiego (ZNSA 2025/4). Skarga na bezczynność Wojewody jest **oczywiście zasadna**, a ewentualna obrona Wojewody byłaby **oczywiście bezzasadna**.
+
+---
+
 *Opracowanie: czerwiec 2025*
 *Na podstawie: Olszanowski J., Ostrowski P., ZNSA 2025/4/47-64*
 *oraz: Europejska Karta Samorządu Lokalnego (Dz.U. 1994 Nr 124 poz. 607)*
