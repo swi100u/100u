@@ -174,7 +174,7 @@ Nie jest to bowiem wadliwa ocena dowodów (co stanowiłoby zwykłe naruszenie pr
 
 Oczywistość naruszenia prawa nie wymaga prowadzenia skomplikowanego postępowania dowodowego — wystarczy porównać treść akt sprawy z wymogami art. 7, 77 § 1, 80 k.p.a. oraz art. 99 ustawy o kierujących pojazdami.
 
-### XI. Nieskuteczne doręczenie pisma SKO z dnia 13 marca 2024 r. — pozbawienie strony prawa do zaskarżenia
+### XI. Nieskuteczne doręczenie pisma SKO z 13.03.2024 r. — pozbawienie strony prawa do zaskarżenia
 
 Samorządowe Kolegium Odwoławcze twierdzi, że pismem z dnia 13 marca 2024 r. (sygn. SKO.K/41.3/209/2024/1726) poinformowało wnioskodawcę o pozostawieniu bez rozpoznania odwołania wniesionego w dniu 16 stycznia 2024 r. na adres poczty elektronicznej Urzędu Miasta Ruda Śląska od decyzji Prezydenta Miasta Ruda Śląska nr SK.5430.7.16.2023.BW z dnia 21 grudnia 2023 r.
 
@@ -203,9 +203,15 @@ Jednocześnie w postanowieniu Wojewódzkiego Sądu Administracyjnego w Gliwicach
 
 Stanowisko to zostało wydane przy założeniu, że skarżący został skutecznie poinformowany o rozstrzygnięciu organu odwoławczego. Tymczasem z materiału dowodowego wynika, że doręczenie pisma z 13 marca 2024 r. było nieskuteczne, a wnioskodawca nie miał wiedzy o tym rozstrzygnięciu w terminie umożliwiającym wniesienie skargi.
 
+Należy przy tym podkreślić, że postanowienie z dnia 7 stycznia 2025 r. (III SA/Gl 788/24) stało się prawomocne z dniem 13 lutego 2025 r. (postanowienie referendarza z 17 kwietnia 2025 r.). Jednak prawomocność ta nie sanuje wadliwości doręczenia pisma z 13 marca 2024 r. — Sąd orzekał przy założeniu skutecznego doręczenia, które faktycznie nie nastąpiło.
+
 Ponadto organ nie wykazał, że przesyłka skierowana do wnioskodawcy rzeczywiście zawierała pouczenie o przysługujących środkach zaskarżenia. Wnoszę o zobowiązanie SKO do przedłożenia oryginału koperty zwróconej do nadawcy wraz z całą jej zawartością celem weryfikacji, czy egzemplarz przeznaczony do doręczenia stronie zawierał stosowne pouczenie.
 
-Okoliczność nieskutecznego doręczenia ma bezpośredni wpływ na ocenę legalności decyzji z 21 grudnia 2023 r. — wnioskodawca został pozbawiony prawa do merytorycznego rozpoznania odwołania, a następnie pozbawiony skutecznej informacji o możliwości wniesienia skargi do sądu administracyjnego.
+Z treści pisma z 13 marca 2024 r. (egzemplarz znajdujący się w aktach UM Ruda Śląska, wpływ 18.03.2024, nr rejestru 30694/24) wynika, że pismo to **nie zawiera pouczenia o możliwości wniesienia skargi do sądu administracyjnego**. Pismo kończy się stwierdzeniem „organ odwoławczy zmuszony jest pozostawić Pana odwołanie bez rozpatrzenia" — bez jakiejkolwiek informacji o przysługujących środkach zaskarżenia.
+
+Oznacza to, że nawet gdyby pismo zostało skutecznie doręczone, wnioskodawca nie zostałby poinformowany o możliwości wniesienia skargi do WSA, co stanowi naruszenie art. 9 k.p.a. (zasada informowania) i pozbawia stronę realnej możliwości skorzystania z prawa do sądu.
+
+Okoliczność nieskutecznego doręczenia w połączeniu z brakiem pouczenia ma bezpośredni wpływ na ocenę legalności decyzji z 21 grudnia 2023 r. — wnioskodawca został pozbawiony prawa do merytorycznego rozpoznania odwołania, a następnie pozbawiony skutecznej informacji o możliwości wniesienia skargi do sądu administracyjnego.
 
 ### XII. Drugie odwołanie przekazane przez Prokuraturę w trybie art. 65 k.p.a. — okoliczność nieznana SKO
 
@@ -213,14 +219,26 @@ Dopiero w toku późniejszych postępowań ujawniło się, że do Prezydenta Mia
 
 Organ I instancji nie przekazał tego odwołania do Samorządowego Kolegium Odwoławczego, mimo obowiązku wynikającego z art. 129 § 1 i art. 131 k.p.a. (obowiązek przekazania odwołania wraz z aktami sprawy organowi odwoławczemu w terminie 7 dni).
 
+Stanowisko organu I instancji, zgodnie z którym odwołanie uznano za „tożsame" z wcześniejszym i dlatego go nie przekazano, zostało wyrażone przez Sekretarz Miasta. Jednocześnie brak jest jakiejkolwiek informacji, aby SKO zweryfikowało:
+
+- zakres umocowania osoby udzielającej tej odpowiedzi do dokonywania wiążącej interpretacji skutków procesowych czynności organu,
+- czy osoba ta była uprawniona do podejmowania decyzji o nieprzekazaniu odwołania do organu odwoławczego,
+- czy przedstawione stanowisko stanowiło oficjalne stanowisko organu w rozumieniu art. 133 k.p.a., czy jedynie wewnętrzną interpretację administracyjną.
+
+W szczególności należy wskazać, że odpowiedź ta zawierała element oceny prawnej skutków procesowych odwołania (uznanie jego „tożsamości" i wywiedzenie z tego braku obowiązku przekazania), co stanowi materię zastrzeżoną dla organu właściwego w trybie art. 133 k.p.a., a nie dla jednostkowej komórki organizacyjnej urzędu.
+
+SKO przyjęło za podstawę swoich ustaleń faktycznych niezweryfikowane oświadczenie wewnątrzadministracyjne, zamiast formalnego i procesowo kontrolowanego aktu organu administracji publicznej. Stanowi to naruszenie art. 7 k.p.a. (zasada prawdy obiektywnej) oraz art. 77 § 1 k.p.a. (obowiązek wyczerpującego zebrania materiału dowodowego).
+
 Okoliczność ta oznacza, że:
 
 - SKO nie wiedziało o istnieniu drugiego odwołania w momencie podejmowania decyzji o pozostawieniu pierwszego bez rozpoznania,
 - SKO opierało swoje rozstrzygnięcia na niepełnym materiale dowodowym,
-- postanowienie WSA z 7 stycznia 2025 r. (III SA/Gl 788/24) zapadło przy niepełnym stanie faktycznym — Sąd nie wiedział, że równolegle istniało odwołanie, którego organ I instancji nie przekazał do organu odwoławczego,
+- postanowienie WSA z 7 stycznia 2025 r. (III SA/Gl 788/24), prawomocne od 13 lutego 2025 r., zapadło przy niepełnym stanie faktycznym — Sąd nie wiedział, że równolegle istniało odwołanie, którego organ I instancji nie przekazał do organu odwoławczego,
 - pomimo uzyskania tej wiedzy w późniejszym okresie (pismo SKO z 19 listopada 2025 r.) Kolegium nie podjęło z urzędu żadnych działań zmierzających do usunięcia skutków własnych błędnych ustaleń.
 
 Brak reakcji organu odwoławczego po ujawnieniu nowych okoliczności świadczy o świadomym utrzymywaniu w obrocie prawnym rozstrzygnięć opartych na niepełnym materiale dowodowym, co stanowi naruszenie art. 7, art. 77 § 1 oraz art. 80 k.p.a.
+
+Doszło zatem do „przerwania toku instancyjnego przez wadliwą filtrację odwołania" — odwołanie istniało, system je „rozbił" na dwa równoległe byty procesowe, żaden z nich nie został prawidłowo rozpoznany, a SKO orzekało w stanie niepełnego materiału. Stanowi to naruszenie zasady dwuinstancyjności postępowania (art. 15 k.p.a.).
 
 ### XIII. Podsumowanie
 
