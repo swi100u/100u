@@ -115,20 +115,49 @@ Dowodem przeciwnym jest w niniejszej sprawie sam fakt, że organ nie posiada opi
 
 Nie można opierać rozstrzygnięcia administracyjnego ingerującego w prawa jednostki na dokumencie, którego istnienie i treść nie zostały zweryfikowane.
 
-### VIII. Potwierdzenie braku dowodu w późniejszym postępowaniu
+### VIII. Potwierdzenie braku dowodu w postępowaniu wznowieniowym — decyzja z 14.11.2024 r.
 
-Szczególne znaczenie ma okoliczność, że w decyzji z dnia 4 marca 2026 r. (wydanej po wznowieniu postępowania) organ I instancji sam przyznał, iż występował do Prokuratury o udostępnienie opinii psychiatrycznej i jej nie otrzymał.
+W decyzji z dnia 14 listopada 2024 r. (pismo nr SK.5430.5.2588.2024.BW), wydanej w postępowaniu wznowieniowym, organ I instancji sam przyznał, iż:
+
+> „Zgodnie z oczekiwaniami strony, Wydział Komunikacji zwrócił się do Prokuratury Rejonowej w Rudzie Śląskiej o udostępnienie opinii sądowo-psychiatrycznej dotyczącej Pana Tomasza Świestowskiego, na podstawie której wystosowano przedmiotowy wniosek."
+
+> „W odpowiedzi na wystosowane pismo, Prokurator Prokuratury Rejonowej poinformował tut. wydział, iż akta sprawy mają formę akt podręcznych prokuratora i w związku z tym nie mogą zostać udostępnione w celach dowodowych."
 
 Jest to przyznanie ze strony organu, że:
 
 - wiedział o konieczności weryfikacji tego dowodu,
 - podjął próbę jego pozyskania,
 - nie był w stanie go uzyskać,
-- mimo to utrzymywał w mocy skutki prawne decyzji z 2023 r.
+- mimo to utrzymał w mocy skutki prawne decyzji z 2023 r., stwierdzając że „nie zachodzi żadna przesłanka z art. 145 § 1, art. 145a § 1 oraz art. 145aa § 1 Kpa".
 
-Okoliczność ta potwierdza, że decyzja z dnia 21 grudnia 2023 r. od początku nie miała oparcia w materiale dowodowym, a organ nigdy nie dysponował dowodem uzasadniającym zastosowanie art. 99 ustawy o kierujących pojazdami.
+Co więcej, w tej samej decyzji organ przytacza wyrok WSA w Poznaniu z dnia 17 kwietnia 2015 r., sygn. III SA/Po 964/14, w którym sąd wprost stwierdził, że „sam wniosek prokuratora rejonowego nie jest wystarczającą przesłanką do wydania decyzji" oraz że „zastrzeżenia co do stanu zdrowia kierowcy winny być oparte na słusznych podstawach". Organ przytacza ten wyrok — i jednocześnie go ignoruje, utrzymując w mocy decyzję opartą wyłącznie na wniosku Prokuratury.
 
-### IX. Charakter naruszenia prawa — rażące naruszenie prawa (art. 156 § 1 pkt 2 k.p.a.)
+Decyzja z 14 listopada 2024 r. zawiera zatem wewnętrzną sprzeczność: organ przyznaje się do braku dowodu, zna orzecznictwo wskazujące na konieczność samodzielnej weryfikacji, a mimo to odmawia uchylenia pierwotnej decyzji.
+
+### IX. Organ nie wyczerpał dostępnych środków dowodowych — pozorność postępowania wznowieniowego
+
+Twierdzenie Prokuratury, że „akta sprawy mają formę akt podręcznych prokuratora i nie mogą zostać udostępnione w celach dowodowych", nie zamykało drogi do pozyskania opinii sądowo-psychiatrycznej.
+
+Z dokumentów zgromadzonych w sprawie karnej wynika, że:
+
+- akta postępowania przygotowawczego były wielokrotnie przekazywane między Prokuraturą Rejonową w Rudzie Śląskiej a Sądem Rejonowym w Mikołowie (m.in. zarządzeniem z 29 grudnia 2022 r. akta zwrócono Prokuratorowi, a następnie ponownie przekazano do Sądu w marcu 2023 r.),
+- Prokuratura dysponowała 4 tomami akt podręcznych, które udostępniła Sądowi Rejonowemu w Mikołowie,
+- sprawa karna została zarejestrowana pod sygn. II Kp 91/23 w Sądzie Rejonowym,
+- akt oskarżenia wraz z aktami trafił do sądu, co oznacza, że opinia sądowo-psychiatryczna znajdowała się w aktach sądowych, a nie wyłącznie w aktach podręcznych Prokuratury.
+
+W tej sytuacji organ administracji mógł i powinien był:
+
+- zwrócić się do Sądu Rejonowego w Mikołowie o udostępnienie opinii na potrzeby postępowania administracyjnego (art. 75 § 1 k.p.a. w zw. z art. 156 § 1 k.p.k.),
+- zwrócić się do Sądu Okręgowego w Katowicach, przed którym toczyło się postępowanie pod sygn. II Kp 91/23,
+- zastosować instytucję pomocy prawnej między organami (art. 52 k.p.a.).
+
+Organ ograniczył się do jednego zapytania skierowanego wyłącznie do Prokuratury. Po otrzymaniu odmowy zaniechał jakichkolwiek dalszych czynności dowodowych. Nie podjął próby uzyskania opinii z sądu, do którego akta zostały przekazane.
+
+Takie zachowanie organu świadczy o pozorności postępowania wznowieniowego. Organ nie zamierzał rzeczywiście wyjaśnić sprawy i zweryfikować podstawy dowodowej decyzji z 2023 r., lecz jedynie formalnie przeprowadzić procedurę wznowieniową i utrzymać dotychczasowe rozstrzygnięcie w mocy.
+
+Pozorność postępowania wznowieniowego stanowi samodzielne naruszenie art. 7 k.p.a. (zasada prawdy obiektywnej) oraz art. 77 § 1 k.p.a. (obowiązek wyczerpującego zebrania materiału dowodowego).
+
+### X. Charakter naruszenia prawa — rażące naruszenie prawa (art. 156 § 1 pkt 2 k.p.a.)
 
 Wydanie decyzji administracyjnej bez przeprowadzenia jakiegokolwiek postępowania dowodowego w zakresie jedynej przesłanki materialnoprawnej, przy jednoczesnym zastosowaniu niewłaściwego reżimu prawnego (potraktowaniu decyzji jako związanej, podczas gdy art. 99 wymaga samodzielnej oceny), stanowi rażące naruszenie prawa w rozumieniu art. 156 § 1 pkt 2 k.p.a.
 
@@ -139,11 +168,13 @@ Nie jest to bowiem wadliwa ocena dowodów (co stanowiłoby zwykłe naruszenie pr
 - błędne utożsamienie obowiązku wszczęcia postępowania na żądanie prokuratora (art. 182 k.p.a.) z obowiązkiem wydania decyzji zgodnej z tym żądaniem,
 - bezkrytyczne przeniesienie ustaleń z postępowania karnego o czyn z art. 190a k.k. do postępowania administracyjnego o uprawnienia kierowcy bez oceny ich przydatności,
 - pozbawienie strony prawa do udziału w postępowaniu dowodowym (art. 10 § 1 k.p.a.),
+- niewyczerpanie dostępnych środków dowodowych w postępowaniu wznowieniowym (organ nie zwrócił się do sądu, do którego akta zostały przekazane),
+- pozorność postępowania wznowieniowego (organ z góry zmierzał do utrzymania decyzji w mocy),
 - ingerencja w konstytucyjnie chronione prawo do swobodnego przemieszczania się bez materialnej podstawy.
 
 Oczywistość naruszenia prawa nie wymaga prowadzenia skomplikowanego postępowania dowodowego — wystarczy porównać treść akt sprawy z wymogami art. 7, 77 § 1, 80 k.p.a. oraz art. 99 ustawy o kierujących pojazdami.
 
-### X. Podsumowanie
+### XI. Podsumowanie
 
 Nie zachodzi tożsamość sprawy uzasadniająca zastosowanie art. 61a § 1 k.p.a., ponieważ:
 
@@ -158,6 +189,12 @@ Nie zachodzi tożsamość sprawy uzasadniająca zastosowanie art. 61a § 1 k.p.a
 5. Organ błędnie utożsamił obowiązek wszczęcia postępowania na żądanie prokuratora (art. 182 k.p.a.) z obowiązkiem wydania decyzji zgodnej z tym żądaniem, co stanowi fundamentalne nieporozumienie co do charakteru instytucji z art. 182 k.p.a.
 
 6. Opinia sądowo-psychiatryczna, na którą powoływała się Prokuratura, została sporządzona w postępowaniu karnym o czyn z art. 190a k.k. (uporczywe nękanie) i nie dotyczyła zdolności do kierowania pojazdami. Nawet gdyby organ ją pozyskał, nie mogłaby stanowić samodzielnej podstawy zastosowania art. 99 ustawy o kierujących pojazdami.
+
+7. Twierdzenie Prokuratury o niemożności udostępnienia opinii (z powodu „formy akt podręcznych") jest nieprawdziwe lub co najmniej niepełne — akta postępowania karnego wraz z opinią zostały przekazane do Sądu Rejonowego w Mikołowie, a organ mógł zwrócić się bezpośrednio do sądu o udostępnienie opinii na potrzeby postępowania administracyjnego.
+
+8. Organ nie wyczerpał dostępnych środków dowodowych — ograniczył się do jednego zapytania do Prokuratury, nie próbując pozyskać opinii z sądu, do którego akta zostały przekazane (Sąd Rejonowy w Mikołowie, sygn. II Kp 91/23).
+
+9. Postępowanie wznowieniowe (zakończone decyzją z 14.11.2024 r.) miało charakter pozorny — organ nie zamierzał rzeczywiście wyjaśnić sprawy, lecz jedynie utrzymać w mocy pierwotną decyzję, co potwierdza wewnętrzna sprzeczność tej decyzji (organ przytacza wyrok WSA III SA/Po 964/14 wskazujący na konieczność samodzielnej weryfikacji — i jednocześnie go ignoruje).
 
 Wobec powyższego wnoszę jak na wstępie.
 
