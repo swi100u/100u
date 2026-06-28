@@ -55,7 +55,38 @@ Ponadto organ użył frazeologii właściwej dla decyzji sankcyjnej („mając n
 
 W konsekwencji organ formalnie powoływał się na art. 99, lecz faktycznie zachował się tak, jakby działał w trybie art. 102 — bez pełnego postępowania dowodowego, bez samodzielnej oceny przesłanek i z przekonaniem, że jest związany stanowiskiem Prokuratury.
 
-### III. Organ nie przeprowadził postępowania dowodowego
+### III. Zastosowanie art. 182 k.p.a. jako podstawy wszczęcia — błędna kwalifikacja charakteru żądania Prokuratury
+
+Z zawiadomienia o wszczęciu postępowania z dnia 10 listopada 2023 r. (pismo nr SK.5430.4.593.2023.BW) wynika, że organ wszczął postępowanie na podstawie „wniosku Prokuratora Rejonowego w Rudzie Śląskiej sygn. akt 4096-0.Pa.36.2022 o wszczęcie postępowania administracyjnego na podstawie art. 182 k.p.a."
+
+Art. 182 k.p.a. przyznaje prokuratorowi prawo żądania wszczęcia postępowania administracyjnego. Żądanie takie obliguje organ do wszczęcia postępowania, jednak nie przesądza o treści rozstrzygnięcia. Organ jest zobowiązany wszcząć postępowanie, ale musi samodzielnie przeprowadzić postępowanie dowodowe i samodzielnie ocenić, czy zachodzą przesłanki materialnoprawne do wydania decyzji.
+
+Tymczasem organ potraktował żądanie Prokuratury złożone na podstawie art. 182 k.p.a. nie tylko jako podstawę wszczęcia postępowania (co było prawidłowe), lecz również jako materialnoprawną podstawę rozstrzygnięcia (co było niedopuszczalne). Organ przyjął twierdzenia Prokuratury za własne ustalenia faktyczne bez jakiejkolwiek weryfikacji.
+
+Żądanie Prokuratury złożone na podstawie art. 182 k.p.a. jest czynnością procesową inicjującą postępowanie. Nie zastępuje postępowania dowodowego. Nie zwalnia organu z obowiązku samodzielnego ustalenia stanu faktycznego. Nie przesądza o istnieniu przesłanek z art. 99 ustawy o kierujących pojazdami.
+
+Organ błędnie utożsamił obowiązek wszczęcia postępowania na żądanie prokuratora z obowiązkiem wydania decyzji zgodnej z tym żądaniem. Są to dwie odrębne kwestie prawne.
+
+### IV. Opinia sądowo-psychiatryczna sporządzona na potrzeby innego postępowania — o innym przedmiocie
+
+Z zawiadomienia o wszczęciu postępowania z dnia 10 listopada 2023 r. wynika, że opinia sądowo-psychiatryczna, na którą powoływała się Prokuratura, została sporządzona w toku postępowania karnego prowadzonego przez Prokuraturę Rejonową w Rudzie Śląskiej „o czyn z art. 190a kk" (uporczywe nękanie/stalking).
+
+Okoliczność ta ma zasadnicze znaczenie dla oceny legalności decyzji.
+
+Opinia sądowo-psychiatryczna sporządzona w postępowaniu karnym o czyn z art. 190a k.k. miała na celu ocenę poczytalności podejrzanego w kontekście zarzucanego mu czynu. Nie była sporządzona w celu oceny zdolności do kierowania pojazdami. Nie odnosiła się do kwestii przeciwwskazań zdrowotnych do prowadzenia pojazdów mechanicznych. Nie badała przesłanek z art. 99 ustawy o kierujących pojazdami.
+
+Nawet gdyby organ pozyskał tę opinię i włączył ją do akt administracyjnych, nie mogłaby ona stanowić samodzielnej i wystarczającej podstawy do ustalenia „uzasadnionych i poważnych zastrzeżeń co do stanu zdrowia" w rozumieniu art. 99 ust. 1 pkt 2 ustawy o kierujących pojazdami, ponieważ:
+
+- została sporządzona na potrzeby oceny poczytalności w sprawie karnej, a nie zdolności do kierowania pojazdami,
+- dotyczyła zupełnie innego przedmiotu (odpowiedzialność karna za nękanie),
+- nie zawierała oceny w kontekście przeciwwskazań zdrowotnych do kierowania pojazdami,
+- biegły psychiatra nie badał osoby pod kątem zdolności psychofizycznych wymaganych od kierowcy.
+
+Organ nie tylko nie pozyskał tej opinii, ale nawet gdyby ją pozyskał, musiałby przeprowadzić dodatkowe postępowanie dowodowe w celu ustalenia, czy ewentualne ustalenia z postępowania karnego o nękanie mają jakikolwiek związek z przesłankami materialnymi art. 99 ustawy o kierujących pojazdami.
+
+Bezkrytyczne przeniesienie twierdzeń Prokuratury z postępowania karnego o czyn z art. 190a k.k. do postępowania administracyjnego o uprawnienia kierowcy, bez jakiejkolwiek samodzielnej oceny, stanowi rażące naruszenie zasady prawdy obiektywnej (art. 7 k.p.a.) oraz zasady swobodnej oceny dowodów (art. 80 k.p.a.).
+
+### V. Organ nie przeprowadził postępowania dowodowego
 
 Z zawiadomienia o wszczęciu postępowania z dnia 10 listopada 2023 r. wynika, że organ powoływał się na treść opinii sądowo-psychiatrycznej, stwierdzając że „jak wynika z opinii sądowo-psychiatrycznej Pan Tomasz Świestowski jest uzależniony od narkotyków i dopalaczy".
 
@@ -68,7 +99,7 @@ Jednocześnie:
 
 Oznacza to, że organ nie przeprowadził postępowania dowodowego w zakresie jedynej przesłanki materialnoprawnej warunkującej wydanie decyzji.
 
-### IV. Organ nie był związany stanowiskiem Prokuratury
+### VI. Organ nie był związany stanowiskiem Prokuratury
 
 Art. 99 ust. 1 pkt 2 ustawy o kierujących pojazdami wymaga, aby organ samodzielnie ustalił istnienie „uzasadnionych i poważnych zastrzeżeń co do stanu zdrowia" kierowcy.
 
@@ -76,7 +107,7 @@ Przepis ten nie przewiduje związania organu stanowiskiem Policji, Prokuratury a
 
 Skoro organ nie dysponował opinią, na którą powoływała się Prokuratura, nie mógł: zweryfikować, czy opinia rzeczywiście zawiera wnioski dotyczące uzależnienia; ocenić, czy została sporządzona prawidłowo; ani ustalić, czy wnioski z niej wynikające uzasadniają zastosowanie art. 99 ustawy o kierujących pojazdami.
 
-### V. Obalenie domniemania prawidłowości ustaleń organu (art. 76 § 3 k.p.a.)
+### VII. Obalenie domniemania prawidłowości ustaleń organu (art. 76 § 3 k.p.a.)
 
 Nawet gdyby przyjąć, że pismo Prokuratury stanowi dokument urzędowy korzystający z domniemania prawdziwości w rozumieniu art. 76 § 1 k.p.a., to zgodnie z art. 76 § 3 k.p.a. domniemanie to może zostać obalone dowodem przeciwnym.
 
@@ -84,7 +115,7 @@ Dowodem przeciwnym jest w niniejszej sprawie sam fakt, że organ nie posiada opi
 
 Nie można opierać rozstrzygnięcia administracyjnego ingerującego w prawa jednostki na dokumencie, którego istnienie i treść nie zostały zweryfikowane.
 
-### VI. Potwierdzenie braku dowodu w późniejszym postępowaniu
+### VIII. Potwierdzenie braku dowodu w późniejszym postępowaniu
 
 Szczególne znaczenie ma okoliczność, że w decyzji z dnia 4 marca 2026 r. (wydanej po wznowieniu postępowania) organ I instancji sam przyznał, iż występował do Prokuratury o udostępnienie opinii psychiatrycznej i jej nie otrzymał.
 
@@ -97,7 +128,7 @@ Jest to przyznanie ze strony organu, że:
 
 Okoliczność ta potwierdza, że decyzja z dnia 21 grudnia 2023 r. od początku nie miała oparcia w materiale dowodowym, a organ nigdy nie dysponował dowodem uzasadniającym zastosowanie art. 99 ustawy o kierujących pojazdami.
 
-### VII. Charakter naruszenia prawa — rażące naruszenie prawa (art. 156 § 1 pkt 2 k.p.a.)
+### IX. Charakter naruszenia prawa — rażące naruszenie prawa (art. 156 § 1 pkt 2 k.p.a.)
 
 Wydanie decyzji administracyjnej bez przeprowadzenia jakiegokolwiek postępowania dowodowego w zakresie jedynej przesłanki materialnoprawnej, przy jednoczesnym zastosowaniu niewłaściwego reżimu prawnego (potraktowaniu decyzji jako związanej, podczas gdy art. 99 wymaga samodzielnej oceny), stanowi rażące naruszenie prawa w rozumieniu art. 156 § 1 pkt 2 k.p.a.
 
@@ -105,12 +136,14 @@ Nie jest to bowiem wadliwa ocena dowodów (co stanowiłoby zwykłe naruszenie pr
 
 - całkowity brak dowodu, na podstawie którego organ podjął rozstrzygnięcie,
 - zastosowanie niewłaściwego reżimu prawnego (zachowanie się jak przy art. 102, a nie art. 99),
+- błędne utożsamienie obowiązku wszczęcia postępowania na żądanie prokuratora (art. 182 k.p.a.) z obowiązkiem wydania decyzji zgodnej z tym żądaniem,
+- bezkrytyczne przeniesienie ustaleń z postępowania karnego o czyn z art. 190a k.k. do postępowania administracyjnego o uprawnienia kierowcy bez oceny ich przydatności,
 - pozbawienie strony prawa do udziału w postępowaniu dowodowym (art. 10 § 1 k.p.a.),
 - ingerencja w konstytucyjnie chronione prawo do swobodnego przemieszczania się bez materialnej podstawy.
 
 Oczywistość naruszenia prawa nie wymaga prowadzenia skomplikowanego postępowania dowodowego — wystarczy porównać treść akt sprawy z wymogami art. 7, 77 § 1, 80 k.p.a. oraz art. 99 ustawy o kierujących pojazdami.
 
-### VIII. Podsumowanie
+### X. Podsumowanie
 
 Nie zachodzi tożsamość sprawy uzasadniająca zastosowanie art. 61a § 1 k.p.a., ponieważ:
 
@@ -121,6 +154,10 @@ Nie zachodzi tożsamość sprawy uzasadniająca zastosowanie art. 61a § 1 k.p.a
 3. W poprzednim postępowaniu nieważnościowym zarzut miał charakter ogólny (naruszenie art. 7, 77, 80 k.p.a.), natomiast obecnie dysponuję konkretnym dowodem — potwierdzeniem organu, że dowód nie istnieje i nie może zostać pozyskany.
 
 4. Dodatkową, samodzielną podstawą nieważności jest zastosowanie przez organ niewłaściwego reżimu prawnego — organ zachował się jak przy decyzji związanej (art. 102), podczas gdy art. 99 wymagał samodzielnego ustalenia przesłanek materialnych.
+
+5. Organ błędnie utożsamił obowiązek wszczęcia postępowania na żądanie prokuratora (art. 182 k.p.a.) z obowiązkiem wydania decyzji zgodnej z tym żądaniem, co stanowi fundamentalne nieporozumienie co do charakteru instytucji z art. 182 k.p.a.
+
+6. Opinia sądowo-psychiatryczna, na którą powoływała się Prokuratura, została sporządzona w postępowaniu karnym o czyn z art. 190a k.k. (uporczywe nękanie) i nie dotyczyła zdolności do kierowania pojazdami. Nawet gdyby organ ją pozyskał, nie mogłaby stanowić samodzielnej podstawy zastosowania art. 99 ustawy o kierujących pojazdami.
 
 Wobec powyższego wnoszę jak na wstępie.
 
