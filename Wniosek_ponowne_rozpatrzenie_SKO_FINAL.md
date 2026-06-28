@@ -293,7 +293,31 @@ Decyzja o nieprzekazaniu odwołania, podjęta przez Sekretarz Miasta Ruda Śląs
 
 SKO nie zweryfikowało umocowania Sekretarz Miasta do dokonywania takiej oceny prawnej. Odpowiedź zawierająca element kwalifikacji prawnej skutków procesowych odwołania stanowi materię zastrzeżoną dla organu właściwego w trybie art. 133 k.p.a., a nie dla komórki organizacyjnej urzędu.
 
-### XV. Podsumowanie
+### XV. Orzecznictwo sądów administracyjnych potwierdzające zasadność zarzutów
+
+Wyrokiem z dnia 18 grudnia 2025 r. (sygn. III SA/Gd 509/25) Wojewódzki Sąd Administracyjny w Gdańsku uchylił decyzję o skierowaniu na badania lekarskie wydaną w analogicznym stanie faktycznym — na podstawie wniosku Prokuratury i opinii sądowo-psychiatrycznej sporządzonej w postępowaniu karnym niedotyczącym ruchu drogowego.
+
+Sąd wskazał wprost, że:
+
+1. **Przesłanką skierowania na badania są zastrzeżenia organu decyzyjnego, a nie wyłącznie podmiotu wnioskującego (np. prokuratora)** — „ustalenia w tym zakresie nie mogą opierać się wyłącznie na wniosku właściwego podmiotu, lecz organ decyzyjny winien sam przeprowadzić postępowanie wyjaśniające celem ustalenia, czy faktycznie istnieją zastrzeżenia co do stanu zdrowia kierowcy zagrażające bezpiecznemu prowadzeniu przez niego pojazdów."
+
+2. **Wezwanie kierującego do poddania się sprawdzeniu stanu zdrowia jest dopuszczalne tylko wówczas, gdy nasuną się „uzasadnione" a jednocześnie także „poważne" zastrzeżenia** — „nie chodzi bowiem o każde zastrzeżenie co do stanu zdrowia kierowcy, tylko o takie zastrzeżenie, które jest uzasadnione ustalonymi okolicznościami faktycznymi, a przy tym jest poważne, a więc rodzi uzasadnioną obawę o stwarzanie przez kierującego zagrożenia dla bezpieczeństwa w ruchu drogowym."
+
+3. **Sama informacja sygnalizacyjna Prokuratora nie stanowi wystarczającej podstawy** — „Trudno uznać, aby tylko sygnał prokuratora, niepoparty żadnymi dokumentami stanowił podstawę do wydania skierowania na badania lekarskie" (za wyrokiem WSA w Gliwicach z 30.11.2017, II SA/Gl 819/17).
+
+4. **Opinia sądowo-psychiatryczna sporządzona w postępowaniu karnym niedotyczącym ruchu drogowego nie jest wystarczającą podstawą** — „z całokształtu okoliczności sprawy — tj. zarówno kontekstu sporządzenia przedmiotowej opinii w postępowaniu karnym (niedotyczącym w żaden sposób deliktu wskazującego na jakikolwiek związek z utratą skarżącego predyspozycji do kierowania pojazdami) (...) — nie wynikało, by zachodziły inne przekonujące powody do skierowania skarżącego na badania."
+
+5. **Organ ma obowiązek ocenić wszystkie dowody zgromadzone w sprawie** — WSA wytkał organom, że „nie poddały należnej ocenie innych dowodów zgromadzonych w materiale dowodowym, jak choćby zaświadczenia lekarskiego przedłożonego przez skarżącego czy wyjaśnień uzyskanych z Komisariatu Policji."
+
+Wyrok ten ma bezpośrednie zastosowanie do niniejszej sprawy, ponieważ:
+
+- W sprawie III SA/Gd 509/25 podstawą skierowania był identyczny mechanizm: wniosek Prokuratury + opinia sądowo-psychiatryczna z postępowania karnego niedotyczącego ruchu drogowego.
+- W tamtej sprawie organ co najmniej podjął pewne czynności wyjaśniające (zapytanie do Policji, wezwanie strony do złożenia wyjaśnień) — i mimo to Sąd uznał, że było to niewystarczające.
+- W niniejszej sprawie organ nie podjął **żadnych** czynności wyjaśniających — nie zapytał Policji, nie wezwał strony do złożenia wyjaśnień, nie pozyskał opinii, nie włączył jej do akt. Naruszenie jest zatem znacznie poważniejsze niż w sprawie gdańskiej.
+
+Wyrok WSA w Gdańsku potwierdza tezę prezentowaną w niniejszym wniosku: organ nie może opierać decyzji o skierowaniu na badania wyłącznie na wniosku Prokuratury, lecz musi samodzielnie ustalić istnienie przesłanek materialnoprawnych. Decyzja z 21 grudnia 2023 r. została wydana z rażącym naruszeniem tej zasady.
+
+### XVI. Podsumowanie
 
 Nie zachodzi tożsamość sprawy uzasadniająca zastosowanie art. 61a § 1 k.p.a., ponieważ:
 
