@@ -240,7 +240,60 @@ Brak reakcji organu odwoławczego po ujawnieniu nowych okoliczności świadczy o
 
 Doszło zatem do „przerwania toku instancyjnego przez wadliwą filtrację odwołania" — odwołanie istniało, system je „rozbił" na dwa równoległe byty procesowe, żaden z nich nie został prawidłowo rozpoznany, a SKO orzekało w stanie niepełnego materiału. Stanowi to naruszenie zasady dwuinstancyjności postępowania (art. 15 k.p.a.).
 
-### XIII. Podsumowanie
+### XIII. SKO samo potwierdza istnienie drugiego odwołania — odpowiedź na wezwanie WSA z 20 kwietnia 2026 r.
+
+W odpowiedzi na wezwanie Wojewódzkiego Sądu Administracyjnego w Gliwicach z dnia 13 kwietnia 2026 r. (sygn. III SAB/Gl 46/26), Samorządowe Kolegium Odwoławcze w Katowicach pismem z dnia 20 kwietnia 2026 r. (sygn. SKO.K/41.3/711/2024/6087/PS) przyznało wprost, że:
+
+1. Pismem z 13 marca 2024 r. poinformowało skarżącego o pozostawieniu bez rozpoznania odwołania wniesionego na adres poczty elektronicznej — ale jednocześnie **nie wykazało skutecznego doręczenia** tego pisma.
+
+2. „Po podjętych czynnościach wyjaśniających, pismem z 29 grudnia 2025 r. nr SKO.K/41.3/1504/2025/17801/EŚ, Kolegium ustosunkowało się do sprawy z **tożsamego odwołania** wniesionego do Prokuratury Rejonowej w Rudzie Śląskiej i przekazanego przez Prokuraturę Rejonową (...) do Prezydenta Miasta Ruda Śląska pismem z 22 stycznia 2024 r. sygn. akt 4096-0.Ko.27.2024."
+
+Pismo to tworzy fundamentalną sprzeczność w stanowisku SKO:
+
+**Z jednej strony** SKO twierdzi, że:
+- odwołanie mailowe „nie istnieje procesowo" (pozostawione bez rozpoznania),
+- a odwołanie przekazane przez Prokuraturę jest „tożsame" z mailowym (więc też nie podlega przekazaniu do SKO).
+
+**Z drugiej strony** SKO przyznaje, że:
+- prowadziło czynności wyjaśniające dotyczące drugiego odwołania,
+- wydało pismo ustosunkowujące się do tego odwołania (29.12.2025),
+- czyli de facto wiedziało o istnieniu tego odwołania i je analizowało.
+
+Organ nie może jednocześnie twierdzić, że:
+1. „odwołania nie ma, bo e-mail",
+2. „odwołanie z Prokuratury jest tożsame z mailowym",
+3. „nie przekazujemy, bo już było inne".
+
+Są to trzy różne reżimy prawne stosowane do tego samego zdarzenia, wzajemnie się wykluczające.
+
+W konsekwencji doszło do systemowego przerwania toku instancyjnego: odwołanie istniało w obrocie prawnym, było znane organom, ale żaden organ nie przekazał go do merytorycznego rozpoznania przez SKO w trybie art. 133 k.p.a.
+
+### XIV. Postanowienie SKO z 13 lutego 2026 r. — odmowa wszczęcia postępowania w trybie art. 37 k.p.a.
+
+Postanowieniem z dnia 13 lutego 2026 r. (sygn. SKO.K/41.3/286/2026/2555/ES) Kolegium odmówiło wszczęcia postępowania w trybie art. 37 k.p.a. w sprawie ponaglenia wnioskodawcy z dnia 1 grudnia 2025 r. na bezczynność Prezydenta Miasta Ruda Śląska polegającą na niezałatwieniu odwołania przekazanego przez Prokuraturę (sygn. 4096-0.Ko.27.2024).
+
+SKO uzasadniło odmowę tym, że:
+- przekazanie odwołania jest „czynnością materialno-techniczną" (art. 133 k.p.a.),
+- instytucja ponaglenia (art. 37) nie ma zastosowania do czynności materialno-technicznych,
+- właściwą drogą jest skarga do sądu administracyjnego na podstawie art. 3 § 2 pkt 9 p.p.s.a.
+
+Stanowisko to — choć formalnie prawidłowe w zakresie kwalifikacji czynności z art. 133 k.p.a. — pomija istotę problemu:
+
+**SKO samo jest organem, który powinien był wyegzekwować przekazanie odwołania.** Zamiast tego:
+- odmówiło wszczęcia postępowania,
+- wskazało stronie drogę sądową,
+- jednocześnie nie podjęło z urzędu żadnych czynności zmierzających do uzyskania akt odwołania od organu I instancji.
+
+Art. 133 k.p.a. nakłada na organ I instancji bezwzględny obowiązek przekazania odwołania w terminie 7 dni. Organ I instancji nie ma kompetencji do:
+- oceny „tożsamości" odwołań,
+- decydowania, które odwołanie „zasługuje" na przekazanie,
+- ani filtrowania środków zaskarżenia.
+
+Decyzja o nieprzekazaniu odwołania, podjęta przez Sekretarz Miasta Ruda Śląska na podstawie „uznania tożsamości", stanowi faktyczne przejęcie kompetencji organu odwoławczego i niedopuszczalną ingerencję w zasadę dwuinstancyjności (art. 15 k.p.a.).
+
+SKO nie zweryfikowało umocowania Sekretarz Miasta do dokonywania takiej oceny prawnej. Odpowiedź zawierająca element kwalifikacji prawnej skutków procesowych odwołania stanowi materię zastrzeżoną dla organu właściwego w trybie art. 133 k.p.a., a nie dla komórki organizacyjnej urzędu.
+
+### XV. Podsumowanie
 
 Nie zachodzi tożsamość sprawy uzasadniająca zastosowanie art. 61a § 1 k.p.a., ponieważ:
 
@@ -262,9 +315,13 @@ Nie zachodzi tożsamość sprawy uzasadniająca zastosowanie art. 61a § 1 k.p.a
 
 9. Postępowanie wznowieniowe (zakończone decyzją z 14.11.2024 r.) miało charakter pozorny — organ nie zamierzał rzeczywiście wyjaśnić sprawy, lecz jedynie utrzymać w mocy pierwotną decyzję, co potwierdza wewnętrzna sprzeczność tej decyzji (organ przytacza wyrok WSA III SA/Po 964/14 wskazujący na konieczność samodzielnej weryfikacji — i jednocześnie go ignoruje).
 
-10. Pismo SKO z dnia 13 marca 2024 r. o pozostawieniu odwołania bez rozpoznania nie zostało skutecznie doręczone wnioskodawcy — organ wysłał je wyłącznie pocztą tradycyjną, mimo że znał adres elektroniczny (ePUAP) strony z wcześniejszych postępowań, a przesyłka wróciła jako niepodjęta.
+10. Pismo SKO z dnia 13 marca 2024 r. o pozostawieniu odwołania bez rozpoznania nie zostało skutecznie doręczone wnioskodawcy — organ wysłał je wyłącznie pocztą tradycyjną, mimo że znał adres elektroniczny (ePUAP) strony z wcześniejszych postępowań, a przesyłka wróciła jako niepodjęta. Ponadto pismo nie zawiera pouczenia o możliwości wniesienia skargi do WSA.
 
-11. Do Prezydenta Miasta Ruda Śląska wpłynęło drugie odwołanie wnioskodawcy przekazane przez Prokuraturę w trybie art. 65 k.p.a., które organ I instancji nigdy nie przekazał do SKO — co oznacza, że wszystkie dotychczasowe rozstrzygnięcia SKO zapadały przy niepełnym stanie faktycznym.
+11. Do Prezydenta Miasta Ruda Śląska wpłynęło drugie odwołanie wnioskodawcy przekazane przez Prokuraturę w trybie art. 65 k.p.a., które organ I instancji nigdy nie przekazał do SKO — co oznacza, że wszystkie dotychczasowe rozstrzygnięcia SKO zapadały przy niepełnym stanie faktycznym. Decyzję o nieprzekazaniu podjęła Sekretarz Miasta bez umocowania do oceny prawnej skutków procesowych (materia art. 133 k.p.a.).
+
+12. SKO samo potwierdza w odpowiedzi na wezwanie WSA z 20 kwietnia 2026 r. (sygn. SKO.K/41.3/711/2024/6087/PS) istnienie „tożsamego odwołania" przekazanego przez Prokuraturę — jednocześnie twierdząc, że nie podlegało ono przekazaniu. Stanowisko to jest wewnętrznie sprzeczne: organ nie może jednocześnie twierdzić, że odwołanie „nie istnieje procesowo" (bo mailowe) i że drugie jest „tożsame" z nieistniejącym.
+
+13. Postanowienie SKO z 13 lutego 2026 r. (SKO.K/41.3/286/2026/2555/ES) odmawia wszczęcia postępowania w trybie art. 37 k.p.a., wskazując drogę z art. 3 § 2 pkt 9 p.p.s.a. — ale jednocześnie SKO nie podjęło z urzędu żadnych czynności zmierzających do wyegzekwowania od organu I instancji wykonania obowiązku z art. 133 k.p.a.
 
 Wobec powyższego wnoszę jak na wstępie.
 
