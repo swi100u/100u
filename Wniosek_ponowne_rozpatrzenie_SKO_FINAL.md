@@ -174,7 +174,55 @@ Nie jest to bowiem wadliwa ocena dowodów (co stanowiłoby zwykłe naruszenie pr
 
 Oczywistość naruszenia prawa nie wymaga prowadzenia skomplikowanego postępowania dowodowego — wystarczy porównać treść akt sprawy z wymogami art. 7, 77 § 1, 80 k.p.a. oraz art. 99 ustawy o kierujących pojazdami.
 
-### XI. Podsumowanie
+### XI. Nieskuteczne doręczenie pisma SKO z dnia 13 marca 2024 r. — pozbawienie strony prawa do zaskarżenia
+
+Samorządowe Kolegium Odwoławcze twierdzi, że pismem z dnia 13 marca 2024 r. (sygn. SKO.K/41.3/209/2024/1726) poinformowało wnioskodawcę o pozostawieniu bez rozpoznania odwołania wniesionego w dniu 16 stycznia 2024 r. na adres poczty elektronicznej Urzędu Miasta Ruda Śląska od decyzji Prezydenta Miasta Ruda Śląska nr SK.5430.7.16.2023.BW z dnia 21 grudnia 2023 r.
+
+Kolegium twierdzi również, że „komplet akt sprawy, w tym rozstrzygnięcia i dowody ich doręczenia zostały przekazane do Sądu wraz z odpowiedzią na skargę z 21 stycznia 2026 r. nr SKO.K/41.3/83/2026/609/ES".
+
+Tymczasem z akt sprawy wynika, że pismo z dnia 13 marca 2024 r. **nigdy nie zostało skutecznie doręczone** wnioskodawcy.
+
+Przesyłka została skierowana na adres pocztowy, mimo że Samorządowe Kolegium Odwoławcze w Katowicach znało elektroniczny adres wnioskodawcy (ePUAP) wykorzystywany w licznych wcześniejszych postępowaniach prowadzonych przed tym organem. Dowodem jest m.in. postanowienie SKO z dnia 21 stycznia 2022 r., sygn. SKO.IP/41.11/9/2022/583, wydane w sprawie ponaglenia na bezczynność Prezydenta Miasta Ruda Śląska — w którym Kolegium rozpoznawało pismo złożone przez wnioskodawcę za pośrednictwem ePUAP i doręczało mu pisma tą samą drogą.
+
+Pomimo tej wiedzy organ odwoławczy:
+
+- odstąpił od wykorzystania znanego mu elektronicznego kanału komunikacji,
+- wysłał pismo wyłącznie przesyłką pocztową,
+- przesyłka wróciła jako niepodjęta,
+- organ wywiódł wobec wnioskodawcy negatywne skutki procesowe z tzw. fikcji doręczenia.
+
+Takie działanie pozostaje w sprzeczności z:
+
+- zasadą pogłębiania zaufania obywateli do organów administracji publicznej (art. 8 k.p.a.),
+- zasadą informowania stron o okolicznościach faktycznych i prawnych mogących mieć wpływ na ustalenie ich praw i obowiązków (art. 9 k.p.a.),
+- zasadą podejmowania przez organ wszelkich czynności niezbędnych do dokładnego wyjaśnienia stanu faktycznego (art. 7 k.p.a.).
+
+Jednocześnie w postanowieniu Wojewódzkiego Sądu Administracyjnego w Gliwicach z dnia 7 stycznia 2025 r., sygn. III SA/Gl 788/24, wskazano, że:
+
+> „Jeśli natomiast skarżący nie zgadzał się z podjętym przez organ odwoławczy rozstrzygnięciem w przedmiocie dopuszczalności wniesionego odwołania, to winien wnieść w tym zakresie skargę do wojewódzkiego sądu administracyjnego."
+
+Stanowisko to zostało wydane przy założeniu, że skarżący został skutecznie poinformowany o rozstrzygnięciu organu odwoławczego. Tymczasem z materiału dowodowego wynika, że doręczenie pisma z 13 marca 2024 r. było nieskuteczne, a wnioskodawca nie miał wiedzy o tym rozstrzygnięciu w terminie umożliwiającym wniesienie skargi.
+
+Ponadto organ nie wykazał, że przesyłka skierowana do wnioskodawcy rzeczywiście zawierała pouczenie o przysługujących środkach zaskarżenia. Wnoszę o zobowiązanie SKO do przedłożenia oryginału koperty zwróconej do nadawcy wraz z całą jej zawartością celem weryfikacji, czy egzemplarz przeznaczony do doręczenia stronie zawierał stosowne pouczenie.
+
+Okoliczność nieskutecznego doręczenia ma bezpośredni wpływ na ocenę legalności decyzji z 21 grudnia 2023 r. — wnioskodawca został pozbawiony prawa do merytorycznego rozpoznania odwołania, a następnie pozbawiony skutecznej informacji o możliwości wniesienia skargi do sądu administracyjnego.
+
+### XII. Drugie odwołanie przekazane przez Prokuraturę w trybie art. 65 k.p.a. — okoliczność nieznana SKO
+
+Dopiero w toku późniejszych postępowań ujawniło się, że do Prezydenta Miasta Ruda Śląska wpłynęło również drugie odwołanie wnioskodawcy od decyzji z dnia 21 grudnia 2023 r., przekazane przez Prokuraturę Rejonową w Rudzie Śląskiej w trybie art. 65 k.p.a.
+
+Organ I instancji nie przekazał tego odwołania do Samorządowego Kolegium Odwoławczego, mimo obowiązku wynikającego z art. 129 § 1 i art. 131 k.p.a. (obowiązek przekazania odwołania wraz z aktami sprawy organowi odwoławczemu w terminie 7 dni).
+
+Okoliczność ta oznacza, że:
+
+- SKO nie wiedziało o istnieniu drugiego odwołania w momencie podejmowania decyzji o pozostawieniu pierwszego bez rozpoznania,
+- SKO opierało swoje rozstrzygnięcia na niepełnym materiale dowodowym,
+- postanowienie WSA z 7 stycznia 2025 r. (III SA/Gl 788/24) zapadło przy niepełnym stanie faktycznym — Sąd nie wiedział, że równolegle istniało odwołanie, którego organ I instancji nie przekazał do organu odwoławczego,
+- pomimo uzyskania tej wiedzy w późniejszym okresie (pismo SKO z 19 listopada 2025 r.) Kolegium nie podjęło z urzędu żadnych działań zmierzających do usunięcia skutków własnych błędnych ustaleń.
+
+Brak reakcji organu odwoławczego po ujawnieniu nowych okoliczności świadczy o świadomym utrzymywaniu w obrocie prawnym rozstrzygnięć opartych na niepełnym materiale dowodowym, co stanowi naruszenie art. 7, art. 77 § 1 oraz art. 80 k.p.a.
+
+### XIII. Podsumowanie
 
 Nie zachodzi tożsamość sprawy uzasadniająca zastosowanie art. 61a § 1 k.p.a., ponieważ:
 
@@ -195,6 +243,10 @@ Nie zachodzi tożsamość sprawy uzasadniająca zastosowanie art. 61a § 1 k.p.a
 8. Organ nie wyczerpał dostępnych środków dowodowych — ograniczył się do jednego zapytania do Prokuratury, nie próbując pozyskać opinii z sądu, do którego akta zostały przekazane (Sąd Rejonowy w Mikołowie, sygn. II Kp 91/23).
 
 9. Postępowanie wznowieniowe (zakończone decyzją z 14.11.2024 r.) miało charakter pozorny — organ nie zamierzał rzeczywiście wyjaśnić sprawy, lecz jedynie utrzymać w mocy pierwotną decyzję, co potwierdza wewnętrzna sprzeczność tej decyzji (organ przytacza wyrok WSA III SA/Po 964/14 wskazujący na konieczność samodzielnej weryfikacji — i jednocześnie go ignoruje).
+
+10. Pismo SKO z dnia 13 marca 2024 r. o pozostawieniu odwołania bez rozpoznania nie zostało skutecznie doręczone wnioskodawcy — organ wysłał je wyłącznie pocztą tradycyjną, mimo że znał adres elektroniczny (ePUAP) strony z wcześniejszych postępowań, a przesyłka wróciła jako niepodjęta.
+
+11. Do Prezydenta Miasta Ruda Śląska wpłynęło drugie odwołanie wnioskodawcy przekazane przez Prokuraturę w trybie art. 65 k.p.a., które organ I instancji nigdy nie przekazał do SKO — co oznacza, że wszystkie dotychczasowe rozstrzygnięcia SKO zapadały przy niepełnym stanie faktycznym.
 
 Wobec powyższego wnoszę jak na wstępie.
 
